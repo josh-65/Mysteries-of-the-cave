@@ -1,0 +1,29 @@
+@font-face {font-family:'header'; src: url("header.ttf");}
+@font-face {font-family:'regular'; src: url("regular.otf");}
+
+/* Loading animation */
+.loading {
+	width: 32px;
+	height: 32px;
+	position: relative;
+	animation-name: loading;
+	animation-duration: 3s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+	margin-top: 5px;
+}
+@keyframes loading {
+	0%   {background-color: rgba(255, 0, 0, 255); left:-60px; top:0px;}
+	35%  {background-color: rgba(200, 0, 0, 255); left:-20px; top:0px;}
+	70%  {background-color: rgba(155, 0, 0, 255); left:20px; top:0px;}
+	100% {background-color: rgba(100, 0, 0, 255); left:60px; top:0px;}
+}
+
+body {
+	background-color: rgb(20, 20, 20);
+	color: white;
+}
+
+table, th, td {
+	border: 0px solid red;
+}
