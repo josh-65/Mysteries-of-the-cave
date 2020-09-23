@@ -2,7 +2,7 @@
 @font-face {font-family:'normal'; src: url("normal.ttf");}
 
 
-/* Loading bar
+/* Loading bar */
 .load-bg {
 	position: relative;
 	text-align: center;
