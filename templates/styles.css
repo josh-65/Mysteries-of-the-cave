@@ -1,29 +1,76 @@
 @font-face {font-family:'header'; src: url("header.ttf");}
-@font-face {font-family:'regular'; src: url("regular.otf");}
+@font-face {font-family:'normal'; src: url("normal.ttf");}
 
-/* Loading animation */
-.loading {
-	width: 32px;
-	height: 32px;
+
+/* Loading bar */
+.load-bg {
 	position: relative;
+	text-align: center;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.60);
+	width: 92px;
+}
+
+.loading {
+	width: 12px;
+	height: 27px;
+	position: absolute;
 	animation-name: loading;
-	animation-duration: 3s;
+	animation-duration: 2s;
 	animation-direction: alternate;
 	animation-iteration-count: infinite;
-	margin-top: 5px;
+	margin-top: 7px;
+	margin-left: 40px;
 }
 @keyframes loading {
-	0%   {background-color: rgba(255, 0, 0, 255); left:-60px; top:0px;}
-	35%  {background-color: rgba(200, 0, 0, 255); left:-20px; top:0px;}
-	70%  {background-color: rgba(155, 0, 0, 255); left:20px; top:0px;}
-	100% {background-color: rgba(100, 0, 0, 255); left:60px; top:0px;}
+	0%   {background-color: rgba(255, 0, 0, 255); left:-40px; top:0px;}
+	25%  {background-color: rgba(160, 0, 0, 255); left:-20px; top:0px;}
+	50%  {background-color: rgba(100, 0, 0, 255); left:0px; top:0px;}
+	75% {background-color: rgba(160, 0, 0, 255); left:20px; top:0px;}
+	100% {background-color: rgba(255, 0, 0, 255); left:40px; top:0px;}
+}
+
+/* Button */
+.button {
+  	padding: 5px 30px;
+  	font-size: 24px;
+  	text-align: center;
+  	cursor: pointer;
+ 	outline: none;
+ 	color: rgb(150, 150, 150);
+  	background-color: rgb(80, 80, 80);
+  	border: none;
+  	border-radius: 8px;
+}
+
+.button:hover {
+	color: rgb(230, 0, 0);
+	background-color: rgb(120, 120, 120)
+}
+
+
+
+/* Other */
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 32px;
+	font-family: header;
+	margin-top: 50px;
 }
 
 body {
-	background-color: rgb(20, 20, 20);
+	background-image: url("../images/background.png");
+	background-repeat: repeat;
 	color: white;
+	margin: 0;
+	font-family: normal;
+	font-size: 38px;
 }
+
 
 table, th, td {
 	border: 0px solid red;
 }
+
+
