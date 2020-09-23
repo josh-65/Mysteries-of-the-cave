@@ -6,16 +6,16 @@
 
 	<title>WARNING - Unity Horror</title>
 	<link rel="shortcut icon" href="images/icon.ico"></link>
+
+	<script src="scripts/timebutton.js"></script>
 </head>
 
 <body>
 	<h1>WARNING</h1>
 	<center><p>This is a horror game containing gore and disturbing images/sounds <br> This game also contains flashing lights and jumpscears, if you have any conditions you should not play this game! </p></center>	
 
-	<center><button class="button" onclick="window.location.href='home.html'">I UNDERSTAND</button></center>
+	<center><button id="show" style="visibility: hidden;" class="button" onclick="window.location.href='home.html'">I UNDERSTAND</button></center>
 
-
-	<center><div class="load-bg"><div class="loading"></div>Loading</div></center>
-
+	<center><div id="hide" style="visibility: show;" class="load-bg"><div class="loading"></div>Loading</div></center>
 </body>
 </html>
