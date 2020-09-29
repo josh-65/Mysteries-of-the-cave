@@ -2,21 +2,31 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="templates/styles.css"></link>
-	
+	<link rel="stylesheet" type="text/css" href="styles/styles.css"></link>
+	<script src="scripts/timedate.js"></script>
+
 	<title>Home - Unity Horror</title>
 	<link rel="shortcut icon" href="images/icon.ico"></link>
 
-	<audio autoplay loop><source src="sounds/bg.mp3" type="audio/mpeg"></audio>
-
-	<script src="scripts/timedate.js"></script>
+	<audio autoplay loop><source src="audio/bg.mp3" type="audio/mpeg"></audio>
 </head>
 
 <body>
 	<img src="images/banner.png" width="100%" hight="80px">
-	<p>---===| <span id="timedate"></span> |<p>
-
+	
 	<center><div class="load-bg"><div class="loading"></div>loading</div></center>
+	
+	<a href="https://github.com/josh-65/Unity-Horror"><img src=images/github.png width="130px"></img></a>
+	<button class="button" onclick="window.location.href='https://github.com/josh-65/Unity-Horror/releases'">Download</button>
+	<button class="button">Suport us!</button>
+
+	<center><div>
+	<video width="32%" controls disablePictureInPicture controlsList="nodownload"><source src="videos/t1.mp4"></source>Trailer 1 not playable</video>
+	<video width="32%" controls disablePictureInPicture controlsList="nodownload"><source src="videos/t2.mp4"></source>Trailer 2 not playable</video>
+	<video width="32%" controls disablePictureInPicture controlsList="nodownload"><source src="videos/t3.mp4"></source>Trailer 3 not playable</video>
+	</div></center>
+
+	<div class="debug"><p>---===| <span id="timedate"></span> |<p></div>
 </body>
 </head>
 </html>
