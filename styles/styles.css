@@ -7,7 +7,7 @@
 	position: relative;
 	text-align: center;
 	color: white;
-	background-color: rgba(0, 0, 0, 0.60);
+	background-color: rgb(0, 0, 0);
 	width: 92px;
 }
 
@@ -32,15 +32,17 @@
 
 /* Button */
 .button {
-  	padding: 5px 30px;
-  	font-size: 24px;
+  	font-size: 36px;
+	width: 170px;
+	height: 40px;
   	text-align: center;
   	cursor: pointer;
- 	outline: none;
+	outline: none;
  	color: rgb(150, 150, 150);
   	background-color: rgb(80, 80, 80);
-  	border: none;
-  	border-radius: 8px;
+  	border-radius: 12px;
+	border-color: rgb(255, 100, 100);
+	font-family: normal;
 }
 
 .button:hover {
@@ -58,6 +60,8 @@
 video {
 	margin-right: 4px;
 	margin-left: 4px;
+	max-width: 800px;
+	max-height: 480px;
 }
 
 h1 {
@@ -68,6 +72,12 @@ h1 {
 	margin-top: 50px;
 }
 
+h2 {
+	margin-top: 8px;
+	margin-bottom: 4px;
+	background-color: rgba(0, 0, 0, 0.85)
+}
+
 body {
 	background-image: url("../images/background.png");
 	background-repeat: repeat;
@@ -76,10 +86,4 @@ body {
 	font-family: normal;
 	font-size: 38px;
 }
-
-
-table, th, td {
-	border: 0px solid red;
-}
-
 
