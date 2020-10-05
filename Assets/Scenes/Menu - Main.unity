@@ -155,7 +155,7 @@ RectTransform:
   m_LocalScale: {x: 1.9380059, y: 1.9380059, z: 1.9490525}
   m_Children: []
   m_Father: {fileID: 967817729}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -387,7 +387,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 967817729}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &728501122
 AudioSource:
@@ -576,7 +576,6 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
-  - {fileID: 1227442715}
   - {fileID: 728501121}
   - {fileID: 1063254112}
   - {fileID: 538018339}
@@ -585,7 +584,7 @@ RectTransform:
   - {fileID: 1301021753}
   - {fileID: 1575196364}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: -1.649, y: 1.612, z: 3.122}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -627,7 +626,7 @@ RectTransform:
   m_Children:
   - {fileID: 1604843676}
   m_Father: {fileID: 967817729}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -676,7 +675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myFx: {fileID: 987900390}
-  clickFx: {fileID: 8300000, guid: 08b4ba6cd22a9ab4986a13fff034f354, type: 3}
+  clickFx: {fileID: 8300000, guid: 4988e23af6d5d0749ad2bb85f5098ee5, type: 3}
   hoverFx: {fileID: 0}
 --- !u!82 &987900390
 AudioSource:
@@ -886,7 +885,7 @@ RectTransform:
   m_LocalScale: {x: 1.9380059, y: 1.9380059, z: 1.9490525}
   m_Children: []
   m_Father: {fileID: 967817729}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1019,7 +1018,7 @@ Transform:
   m_Children:
   - {fileID: 1537217834}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1227442709
 GameObject:
@@ -1067,7 +1066,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 50.415638
+  field of view: 17.619232
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -1209,12 +1208,24 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1227442709}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -460}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.1002993, y: 0.1002993, z: 0.1002993}
   m_Children: []
-  m_Father: {fileID: 967817729}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1268067596 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1931554413, guid: 31f0483a749889f4e97b5d399c7bc030,
+    type: 3}
+  m_PrefabInstance: {fileID: 1931554411}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5610afc2d359c4198588a2f0932789, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1301021752
 GameObject:
   m_ObjectHideFlags: 0
@@ -1250,7 +1261,7 @@ RectTransform:
   m_Children:
   - {fileID: 576415890}
   m_Father: {fileID: 967817729}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1514,7 +1525,7 @@ RectTransform:
   m_Children:
   - {fileID: 1956095159}
   m_Father: {fileID: 967817729}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1704,7 +1715,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1524701049}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1268067596}
+        m_TargetAssemblyTypeName: levelChange, Assembly-CSharp
+        m_MethodName: loadNextLevel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
 --- !u!114 &1524701049
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1850,6 +1873,7 @@ GameObject:
   - component: {fileID: 1575196367}
   - component: {fileID: 1575196366}
   - component: {fileID: 1575196365}
+  - component: {fileID: 1575196371}
   m_Layer: 5
   m_Name: Quit
   m_TagString: Untagged
@@ -1870,7 +1894,7 @@ RectTransform:
   m_Children:
   - {fileID: 658253031}
   m_Father: {fileID: 967817729}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2060,7 +2084,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1575196369}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1575196371}
+        m_TargetAssemblyTypeName: quit, Assembly-CSharp
+        m_MethodName: Quit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1575196369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2099,6 +2135,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1575196363}
   m_CullTransparentMesh: 0
+--- !u!114 &1575196371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575196363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21cde2fa94ce56944894e01fe95a6c32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1604843675
 GameObject:
   m_ObjectHideFlags: 0
@@ -2242,7 +2290,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1931554411
 PrefabInstance:
@@ -2254,17 +2302,17 @@ PrefabInstance:
     - target: {fileID: 8618176223573669864, guid: 31f0483a749889f4e97b5d399c7bc030,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.38102257
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8618176223573669864, guid: 31f0483a749889f4e97b5d399c7bc030,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 72.91155
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8618176223573669864, guid: 31f0483a749889f4e97b5d399c7bc030,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -139.56888
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8618176223573669864, guid: 31f0483a749889f4e97b5d399c7bc030,
         type: 3}
