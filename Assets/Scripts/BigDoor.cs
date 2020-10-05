@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BigDoor : MonoBehaviour {
 
-	void Update(){
-			//Animation.Play("Big Door - left");
+	public void OnTriggerEnter(Collider other) {
+		Debug.Log("BigDoor - Failed");
 	}
 }

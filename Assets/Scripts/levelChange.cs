@@ -9,6 +9,22 @@ public class levelChange : MonoBehaviour
     public float Time = 1f;
     public string transname;
 
+	public void OnTriggerEnter(Collider other) {
+		loadNextLevel();
+	}
+
+    void Update() {
+        Scene S = SceneManager.GetActiveScene();
+        if (S.name == "Menu - Credits") {
+            StartCoroutine(reset());
+
+            IEnumerator reset() {
+                yield return new WaitForSeconds(78);
+                SceneManager.LoadScene("Menu - Main");
+            }
+        }
+    }
+
     public void loadNextLevel() {
         StartCoroutine(loadLevel(SceneManager.GetActiveScene().buildIndex + 1));
     }

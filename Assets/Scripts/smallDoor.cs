@@ -2,17 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class smallDoor : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+public class smallDoor : MonoBehaviour {
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    void OnTriggerEnter(Collider coll){
+        if(coll.tag=="Player"){
+            GetComponent<Animator>().Play("Small Door");
+        }
     }
 }
