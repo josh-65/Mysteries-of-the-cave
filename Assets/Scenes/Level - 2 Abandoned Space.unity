@@ -233,11 +233,11 @@ GameObject:
   - component: {fileID: 42339235}
   - component: {fileID: 42339234}
   m_Layer: 0
-  m_Name: Shelf 2 (1)
+  m_Name: shelf 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &42339233
 Transform:
@@ -328,11 +328,11 @@ GameObject:
   - component: {fileID: 76377398}
   - component: {fileID: 76377397}
   m_Layer: 0
-  m_Name: Shelf 4 (1)
+  m_Name: shelf 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &76377396
 Transform:
@@ -803,11 +803,11 @@ GameObject:
   - component: {fileID: 304060200}
   - component: {fileID: 304060199}
   m_Layer: 0
-  m_Name: Shelf 2
+  m_Name: shelf 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &304060198
 Transform:
@@ -1140,7 +1140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4448068258976056, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.44
+      value: -14.4
       objectReference: {fileID: 0}
     - target: {fileID: 4448068258976056, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1148,7 +1148,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4448068258976056, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.669
+      value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 4448068258976056, guid: 2e62f5703e5f8d2488a5e1bc8433be41, type: 3}
       propertyPath: m_LocalRotation.x
@@ -1616,11 +1616,11 @@ GameObject:
   - component: {fileID: 481766509}
   - component: {fileID: 481766508}
   m_Layer: 0
-  m_Name: Shelf 1
+  m_Name: shelf 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &481766507
 Transform:
@@ -1708,7 +1708,7 @@ GameObject:
   m_Component:
   - component: {fileID: 525582712}
   m_Layer: 0
-  m_Name: Balcony
+  m_Name: Viewing area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2387,11 +2387,11 @@ GameObject:
   - component: {fileID: 898496340}
   - component: {fileID: 898496339}
   m_Layer: 0
-  m_Name: Shelf 3 (1)
+  m_Name: shelf 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &898496338
 Transform:
@@ -2591,7 +2591,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 987378708}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 8.85, y: 0.01, z: 0.05}
+  m_LocalPosition: {x: 8.87, y: 0.01, z: 0.05}
   m_LocalScale: {x: 2.52, y: 0.05, z: 0.13}
   m_Children: []
   m_Father: {fileID: 1307817681}
@@ -2779,7 +2779,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1006068569}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalPosition: {x: 0, y: 0.2, z: -0}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 1941039313}
@@ -2798,25 +2798,25 @@ ReflectionProbe:
   m_Mode: 1
   m_RefreshMode: 1
   m_TimeSlicingMode: 0
-  m_Resolution: 256
+  m_Resolution: 128
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 40, y: 10, z: 100}
-  m_BoxOffset: {x: 0, y: 0, z: 0}
+  m_BoxSize: {x: 18.946142, y: 4.6111455, z: 11.481201}
+  m_BoxOffset: {x: -0.23888683, y: 0.094504595, z: 4.772335}
   m_NearClip: 0.3
-  m_FarClip: 1000
+  m_FarClip: 100
   m_ShadowDistance: 100
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.427451, g: 0.53333336, b: 0.4784314, a: 0}
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
   m_IntensityMultiplier: 1
-  m_BlendDistance: 1
+  m_BlendDistance: 0
   m_HDR: 1
   m_BoxProjection: 1
   m_RenderDynamicObjects: 0
   m_UseOcclusionCulling: 1
-  m_Importance: 1
+  m_Importance: 10
   m_CustomBakedTexture: {fileID: 0}
 --- !u!1 &1138262575
 GameObject:
@@ -2831,11 +2831,11 @@ GameObject:
   - component: {fileID: 1138262578}
   - component: {fileID: 1138262577}
   m_Layer: 0
-  m_Name: Shelf 4
+  m_Name: shelf 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1138262576
 Transform:
@@ -3582,7 +3582,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1502494231}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -8.831, y: 0.01, z: 0.05}
+  m_LocalPosition: {x: -8.84, y: 0.01, z: 0.05}
   m_LocalScale: {x: 2.52, y: 0.05, z: 0.13}
   m_Children: []
   m_Father: {fileID: 1307817681}
@@ -4378,7 +4378,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1799117435}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.224, z: 0.05}
+  m_LocalPosition: {x: 0.02, y: -1.224, z: 0.05}
   m_LocalScale: {x: 17.7, y: 0.05, z: 0.13}
   m_Children: []
   m_Father: {fileID: 1307817681}
@@ -4459,11 +4459,11 @@ GameObject:
   - component: {fileID: 1801468418}
   - component: {fileID: 1801468417}
   m_Layer: 0
-  m_Name: Shelf 3
+  m_Name: shelf 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1801468416
 Transform:
@@ -4649,11 +4649,11 @@ GameObject:
   - component: {fileID: 1871656448}
   - component: {fileID: 1871656447}
   m_Layer: 0
-  m_Name: Shelf 1 (1)
+  m_Name: shelf 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 1
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1871656446
 Transform:
@@ -4792,8 +4792,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1941039312}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.028, z: 0.03}
-  m_LocalScale: {x: 17.73442, y: 0.15450001, z: 2.565}
+  m_LocalPosition: {x: 0, y: 0.068, z: 0.03}
+  m_LocalScale: {x: 17.7, y: 0.1, z: 2.565}
   m_Children:
   - {fileID: 1006068570}
   m_Father: {fileID: 1307817681}
