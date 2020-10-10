@@ -164,7 +164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   transition: {fileID: 8618176222678795071}
-  Time: 0
+  Time: 0.58
   transname: Fade - Transition
 --- !u!1 &8618176223715493863
 GameObject:

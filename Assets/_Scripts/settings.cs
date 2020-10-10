@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.UI;
+using SaveSystem;
 
-public class settings : MonoBehaviour
-{
+[System.Serializable]
+public class settings : MonoBehaviour {
+    
     public AudioMixer mixer;
     public Dropdown resDropdown;
     Resolution[] ress;
+    string path = "USER/appdata/Roaming/Home JC/Mysteries of the cave/settings.json";
 
-    //Gets and Displays resolutions
     void Start() {
+        //Gets and Displays resolutions
         ress = Screen.resolutions;
         resDropdown.ClearOptions();
         List<string> allowRes = new List<string>();
@@ -31,7 +34,7 @@ public class settings : MonoBehaviour
         resDropdown.RefreshShownValue();
     }
 
-    //Genral--------------------------------
+    //General--------------------------------
     public void fullscreen(bool isFull) {
         Screen.fullScreen = isFull;
     }

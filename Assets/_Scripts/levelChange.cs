@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class levelChange : MonoBehaviour
 {
     public Animator transition;
-    public float Time = 1f;
+    public float Time = 0f;
     public string transname;
 
 	public void OnTriggerEnter(Collider other) {
