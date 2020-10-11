@@ -2,9 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BigDoor : MonoBehaviour {
+public class BigDoor : MonoBehaviour 
+{
+	public Animator left;
+	public Animator right;
+	public AudioSource audio;
+	public AudioClip playAudio;
 
 	public void OnTriggerEnter(Collider other) {
-		Debug.Log("BigDoor - Failed");
+		left.SetTrigger("Big Door - Open");
+		right.SetTrigger("Big Door - Open");
+		audio.PlayOneShot(playAudio);
 	}
 }
