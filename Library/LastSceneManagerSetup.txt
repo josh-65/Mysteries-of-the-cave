@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Scenes/Menu - Credits.unity
+- path: Assets/_Scenes/Level - 2 Abandoned Space.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
