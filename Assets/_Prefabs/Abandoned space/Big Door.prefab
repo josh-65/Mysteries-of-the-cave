@@ -458,6 +458,7 @@ MonoBehaviour:
   left: {fileID: 3277656100640143835}
   right: {fileID: 365518890024774268}
   audio: {fileID: 9116113770128783054}
+  enabled: 1
 --- !u!82 &9116113770128783054
 AudioSource:
   m_ObjectHideFlags: 0

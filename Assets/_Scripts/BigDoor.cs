@@ -7,10 +7,13 @@ public class bigDoor : MonoBehaviour
 	public Animator left;
 	public Animator right;
 	public AudioSource audio;
+	public bool enabled;
 
 	public void OnTriggerEnter(Collider other) {
-		left.SetTrigger("Big Door - Open");
-		right.SetTrigger("Big Door - Open");
-		audio.Play();
+		if(enabled) {
+			left.SetTrigger("Big Door - Open");
+			right.SetTrigger("Big Door - Open");
+			audio.Play();
+		}
 	}
 }

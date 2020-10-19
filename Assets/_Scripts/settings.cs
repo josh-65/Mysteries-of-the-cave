@@ -11,7 +11,6 @@ public class settings : MonoBehaviour {
     public AudioMixer mixer;
     public Dropdown resDropdown;
     Resolution[] ress;
-    string path = "USER/appdata/Roaming/Home JC/Mysteries of the cave/settings.json";
 
     void Start() {
         //Gets and Displays resolutions
