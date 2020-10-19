@@ -3,7 +3,11 @@
   "Assemblies": [
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+<<<<<<< HEAD
       "LastWriteTime": "2020-10-19T21:16:45.1445605Z"
+=======
+      "LastWriteTime": "2020-10-19T22:52:31.0954351Z"
+>>>>>>> HDPL-version
     },
     {
       "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
