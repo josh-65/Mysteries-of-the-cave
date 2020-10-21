@@ -1,0 +1,5427 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 480125147, guid: cff40e976d1f4094b9d1b41ffc6dd20d, type: 3}
+  m_Name: CurvedPoly_Assets_Models_ToyBox
+  m_EditorClassIdentifier: 
+  runtimeAssetGUID: a54b5bbbafafe764492ef4da9a884e91
+  vertices:
+    mainvertices:
+    - smooth: 1
+      alignments:
+      - alignment: 96000000a8020000
+      - alignment: be00000080020000
+      values:
+      - {x: -0.5, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 9700000098000000
+      - alignment: c600000082020000
+      values:
+      - {x: -0.25, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 990000009a000000
+      - alignment: ce00000084020000
+      values:
+      - {x: 0, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 9b0000009c000000
+      - alignment: d600000086020000
+      values:
+      - {x: 0.25, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 9d000000bc020000
+      - alignment: de00000088020000
+      values:
+      - {x: 0.5, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 9e000000aa020000
+      - alignment: bf000000c0000000
+      values:
+      - {x: -0.5, y: 0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 9f000000a0000000
+      - alignment: c7000000c8000000
+      values:
+      - {x: -0.363, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: a1000000a2000000
+      - alignment: cf000000d0000000
+      values:
+      - {x: 0, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: a3000000a4000000
+      - alignment: d7000000d8000000
+      values:
+      - {x: 0.363, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: a5000000be020000
+      - alignment: df000000e0000000
+      values:
+      - {x: 0.5, y: 0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: a6000000ac020000
+      - alignment: c1000000c2000000
+      values:
+      - {x: -0.5, y: 0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: a7000000a8000000
+      - alignment: c9000000ca000000
+      values:
+      - {x: -0.363, y: 0.71500003, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: a9000000aa000000
+      - alignment: d1000000d2000000
+      values:
+      - {x: 0, y: 0.44000003, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: ab000000ac000000
+      - alignment: d9000000da000000
+      values:
+      - {x: 0.363, y: 0.71500003, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: ad000000c0020000
+      - alignment: e1000000e2000000
+      values:
+      - {x: 0.5, y: 0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: ae000000ae020000
+      - alignment: c3000000c4000000
+      values:
+      - {x: -0.5, y: 0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: af000000b0000000
+      - alignment: cb000000cc000000
+      values:
+      - {x: -0.363, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: b1000000b2000000
+      - alignment: d3000000d4000000
+      values:
+      - {x: 0, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: b3000000b4000000
+      - alignment: db000000dc000000
+      values:
+      - {x: 0.363, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: b5000000c2020000
+      - alignment: e3000000e4000000
+      values:
+      - {x: 0.5, y: 0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: b6000000b0020000
+      - alignment: c500000094020000
+      values:
+      - {x: -0.5, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: b7000000b8000000
+      - alignment: cd00000096020000
+      values:
+      - {x: -0.25, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: b9000000ba000000
+      - alignment: d500000098020000
+      values:
+      - {x: 0, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: bb000000bc000000
+      - alignment: dd0000009a020000
+      values:
+      - {x: 0.25, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: bd000000c4020000
+      - alignment: e50000009c020000
+      values:
+      - {x: 0.5, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 1, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: e60000009e020000
+      - alignment: 0e01000076020000
+      values:
+      - {x: -0.5, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: e7000000e8000000
+      - alignment: 1601000078020000
+      values:
+      - {x: -0.25, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: e9000000ea000000
+      - alignment: 1e0100007a020000
+      values:
+      - {x: 0, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: eb000000ec000000
+      - alignment: 260100007c020000
+      values:
+      - {x: 0.25, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: ed000000b2020000
+      - alignment: 2e0100007e020000
+      values:
+      - {x: 0.5, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: ee000000a0020000
+      - alignment: 0f01000010010000
+      values:
+      - {x: -0.5, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: ef000000f0000000
+      - alignment: 1701000018010000
+      values:
+      - {x: -0.25, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: f1000000f2000000
+      - alignment: 1f01000020010000
+      values:
+      - {x: 0, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: f3000000f4000000
+      - alignment: 2701000028010000
+      values:
+      - {x: 0.25, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: f5000000b4020000
+      - alignment: 2f01000030010000
+      values:
+      - {x: 0.5, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: f6000000a2020000
+      - alignment: 1101000012010000
+      values:
+      - {x: -0.5, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: f7000000f8000000
+      - alignment: 190100001a010000
+      values:
+      - {x: -0.25, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: f9000000fa000000
+      - alignment: 2101000022010000
+      values:
+      - {x: 0, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: fb000000fc000000
+      - alignment: 290100002a010000
+      values:
+      - {x: 0.25, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: fd000000b6020000
+      - alignment: 3101000032010000
+      values:
+      - {x: 0.5, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: fe000000a4020000
+      - alignment: 1301000014010000
+      values:
+      - {x: -0.5, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: ff00000000010000
+      - alignment: 1b0100001c010000
+      values:
+      - {x: -0.25, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 0101000002010000
+      - alignment: 2301000024010000
+      values:
+      - {x: 0, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 0301000004010000
+      - alignment: 2b0100002c010000
+      values:
+      - {x: 0.25, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 05010000b8020000
+      - alignment: 3301000034010000
+      values:
+      - {x: 0.5, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 06010000a6020000
+      - alignment: 150100008a020000
+      values:
+      - {x: -0.5, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 0701000008010000
+      - alignment: 1d0100008c020000
+      values:
+      - {x: -0.25, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 090100000a010000
+      - alignment: 250100008e020000
+      values:
+      - {x: 0, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 0b0100000c010000
+      - alignment: 2d01000090020000
+      values:
+      - {x: 0.25, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 0d010000ba020000
+      - alignment: 3501000092020000
+      values:
+      - {x: 0.5, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: -1, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 36010000b3020000
+      - alignment: 5e010000c7020000
+      values:
+      - {x: 0.55, y: -0.5, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 3701000038010000
+      - alignment: 66010000c9020000
+      values:
+      - {x: 0.55, y: -0.25, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 390100003a010000
+      - alignment: 6e010000cb020000
+      values:
+      - {x: 0.55, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 3b0100003c010000
+      - alignment: 76010000cd020000
+      values:
+      - {x: 0.55, y: 0.25, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 3d010000bd020000
+      - alignment: 7e010000cf020000
+      values:
+      - {x: 0.55, y: 0.5, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 3e010000b5020000
+      - alignment: 5f01000060010000
+      values:
+      - {x: 0.55, y: -0.5, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 3f01000040010000
+      - alignment: 6701000068010000
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 4101000042010000
+      - alignment: 6f01000070010000
+      values:
+      - {x: 0.47500002, y: 0, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 4301000044010000
+      - alignment: 7701000078010000
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 45010000bf020000
+      - alignment: 7f01000080010000
+      values:
+      - {x: 0.55, y: 0.5, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 46010000b7020000
+      - alignment: 6101000062010000
+      values:
+      - {x: 0.55, y: -0.5, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 4701000048010000
+      - alignment: 690100006a010000
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 490100004a010000
+      - alignment: 7101000072010000
+      values:
+      - {x: 0.47500002, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 4b0100004c010000
+      - alignment: 790100007a010000
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 4d010000c1020000
+      - alignment: 8101000082010000
+      values:
+      - {x: 0.55, y: 0.5, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 4e010000b9020000
+      - alignment: 6301000064010000
+      values:
+      - {x: 0.55, y: -0.5, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 4f01000050010000
+      - alignment: 6b0100006c010000
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 5101000052010000
+      - alignment: 7301000074010000
+      values:
+      - {x: 0.47500002, y: 0, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 5301000054010000
+      - alignment: 7b0100007c010000
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 55010000c3020000
+      - alignment: 8301000084010000
+      values:
+      - {x: 0.55, y: 0.5, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 56010000bb020000
+      - alignment: 65010000d0020000
+      values:
+      - {x: 0.55, y: -0.5, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 5701000058010000
+      - alignment: 6d010000d2020000
+      values:
+      - {x: 0.55, y: -0.25, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 590100005a010000
+      - alignment: 75010000d4020000
+      values:
+      - {x: 0.55, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 5b0100005c010000
+      - alignment: 7d010000d6020000
+      values:
+      - {x: 0.55, y: 0.25, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 5d010000c5020000
+      - alignment: 85010000d8020000
+      values:
+      - {x: 0.55, y: 0.5, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 1, y: 0.000000052154057, z: 0.000000052154057}
+    - smooth: 1
+      alignments:
+      - alignment: 860100009f020000
+      - alignment: ae010000e4020000
+      values:
+      - {x: -0.55, y: -0.5, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 8701000088010000
+      - alignment: b6010000e6020000
+      values:
+      - {x: -0.55, y: -0.25, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 890100008a010000
+      - alignment: be010000e8020000
+      values:
+      - {x: -0.55, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 8b0100008c010000
+      - alignment: c6010000ea020000
+      values:
+      - {x: -0.55, y: 0.25, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 8d010000a9020000
+      - alignment: ce010000ec020000
+      values:
+      - {x: -0.55, y: 0.5, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 8e010000a1020000
+      - alignment: af010000b0010000
+      values:
+      - {x: -0.55, y: -0.5, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 8f01000090010000
+      - alignment: b7010000b8010000
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 9101000092010000
+      - alignment: bf010000c0010000
+      values:
+      - {x: -0.47500002, y: 0, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 9301000094010000
+      - alignment: c7010000c8010000
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 95010000ab020000
+      - alignment: cf010000d0010000
+      values:
+      - {x: -0.55, y: 0.5, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 96010000a3020000
+      - alignment: b1010000b2010000
+      values:
+      - {x: -0.55, y: -0.5, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 9701000098010000
+      - alignment: b9010000ba010000
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 990100009a010000
+      - alignment: c1010000c2010000
+      values:
+      - {x: -0.47500002, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 9b0100009c010000
+      - alignment: c9010000ca010000
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 9d010000ad020000
+      - alignment: d1010000d2010000
+      values:
+      - {x: -0.55, y: 0.5, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 9e010000a5020000
+      - alignment: b3010000b4010000
+      values:
+      - {x: -0.55, y: -0.5, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: 9f010000a0010000
+      - alignment: bb010000bc010000
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: a1010000a2010000
+      - alignment: c3010000c4010000
+      values:
+      - {x: -0.47500002, y: 0, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: a3010000a4010000
+      - alignment: cb010000cc010000
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: a5010000af020000
+      - alignment: d3010000d4010000
+      values:
+      - {x: -0.55, y: 0.5, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: a6010000a7020000
+      - alignment: b5010000db020000
+      values:
+      - {x: -0.55, y: -0.5, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: a7010000a8010000
+      - alignment: bd010000dd020000
+      values:
+      - {x: -0.55, y: -0.25, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: a9010000aa010000
+      - alignment: c5010000df020000
+      values:
+      - {x: -0.55, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: ab010000ac010000
+      - alignment: cd010000e1020000
+      values:
+      - {x: -0.55, y: 0.25, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: ad010000b1020000
+      - alignment: d5010000e3020000
+      values:
+      - {x: -0.55, y: 0.5, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: -1, y: 0.000000052154064, z: 0.000000052154064}
+    - smooth: 1
+      alignments:
+      - alignment: d6010000da020000
+      - alignment: fe0100008b020000
+      values:
+      - {x: -0.5, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: d7010000d8010000
+      - alignment: 060200008d020000
+      values:
+      - {x: -0.25, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: d9010000da010000
+      - alignment: 0e0200008f020000
+      values:
+      - {x: 0, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: db010000dc010000
+      - alignment: 1602000091020000
+      values:
+      - {x: 0.25, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: dd010000d1020000
+      - alignment: 1e02000093020000
+      values:
+      - {x: 0.5, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: de010000dc020000
+      - alignment: ff01000000020000
+      values:
+      - {x: -0.5, y: -0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: df010000e0010000
+      - alignment: 0702000008020000
+      values:
+      - {x: -0.388, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: e1010000e2010000
+      - alignment: 0f02000010020000
+      values:
+      - {x: 0, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: e3010000e4010000
+      - alignment: 1702000018020000
+      values:
+      - {x: 0.388, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: e5010000d3020000
+      - alignment: 1f02000020020000
+      values:
+      - {x: 0.5, y: -0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: e6010000de020000
+      - alignment: 0102000002020000
+      values:
+      - {x: -0.5, y: 0, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: e7010000e8010000
+      - alignment: 090200000a020000
+      values:
+      - {x: -0.388, y: 0, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: e9010000ea010000
+      - alignment: 1102000012020000
+      values:
+      - {x: 0, y: 0, z: 0.328}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: eb010000ec010000
+      - alignment: 190200001a020000
+      values:
+      - {x: 0.388, y: 0, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: ed010000d5020000
+      - alignment: 2102000022020000
+      values:
+      - {x: 0.5, y: 0, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: ee010000e0020000
+      - alignment: 0302000004020000
+      values:
+      - {x: -0.5, y: 0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: ef010000f0010000
+      - alignment: 0b0200000c020000
+      values:
+      - {x: -0.388, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: f1010000f2010000
+      - alignment: 1302000014020000
+      values:
+      - {x: 0, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: f3010000f4010000
+      - alignment: 1b0200001c020000
+      values:
+      - {x: 0.388, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: f5010000d7020000
+      - alignment: 2302000024020000
+      values:
+      - {x: 0.5, y: 0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: f6010000e2020000
+      - alignment: 0502000095020000
+      values:
+      - {x: -0.5, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: f7010000f8010000
+      - alignment: 0d02000097020000
+      values:
+      - {x: -0.25, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: f9010000fa010000
+      - alignment: 1502000099020000
+      values:
+      - {x: 0, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: fb010000fc010000
+      - alignment: 1d0200009b020000
+      values:
+      - {x: 0.25, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: fd010000d9020000
+      - alignment: 250200009d020000
+      values:
+      - {x: 0.5, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154057, y: 0.000000052154057, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: 26020000e5020000
+      - alignment: 4e02000077020000
+      values:
+      - {x: -0.5, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 2702000028020000
+      - alignment: 5602000079020000
+      values:
+      - {x: -0.25, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 290200002a020000
+      - alignment: 5e0200007b020000
+      values:
+      - {x: 0, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 2b0200002c020000
+      - alignment: 660200007d020000
+      values:
+      - {x: 0.25, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 2d020000c6020000
+      - alignment: 6e0200007f020000
+      values:
+      - {x: 0.5, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 2e020000e7020000
+      - alignment: 4f02000050020000
+      values:
+      - {x: -0.5, y: -0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 2f02000030020000
+      - alignment: 5702000058020000
+      values:
+      - {x: -0.388, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3102000032020000
+      - alignment: 5f02000060020000
+      values:
+      - {x: 0, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3302000034020000
+      - alignment: 6702000068020000
+      values:
+      - {x: 0.388, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 35020000c8020000
+      - alignment: 6f02000070020000
+      values:
+      - {x: 0.5, y: -0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 36020000e9020000
+      - alignment: 5102000052020000
+      values:
+      - {x: -0.5, y: 0, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3702000038020000
+      - alignment: 590200005a020000
+      values:
+      - {x: -0.388, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 390200003a020000
+      - alignment: 6102000062020000
+      values:
+      - {x: 0, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3b0200003c020000
+      - alignment: 690200006a020000
+      values:
+      - {x: 0.388, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3d020000ca020000
+      - alignment: 7102000072020000
+      values:
+      - {x: 0.5, y: 0, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3e020000eb020000
+      - alignment: 5302000054020000
+      values:
+      - {x: -0.5, y: 0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3f02000040020000
+      - alignment: 5b0200005c020000
+      values:
+      - {x: -0.388, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 4102000042020000
+      - alignment: 6302000064020000
+      values:
+      - {x: 0, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 4302000044020000
+      - alignment: 6b0200006c020000
+      values:
+      - {x: 0.388, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 45020000cc020000
+      - alignment: 7302000074020000
+      values:
+      - {x: 0.5, y: 0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 46020000ed020000
+      - alignment: 5502000081020000
+      values:
+      - {x: -0.5, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 4702000048020000
+      - alignment: 5d02000083020000
+      values:
+      - {x: -0.25, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 490200004a020000
+      - alignment: 6502000085020000
+      values:
+      - {x: 0, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 4b0200004c020000
+      - alignment: 6d02000087020000
+      values:
+      - {x: 0.25, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 4d020000ce020000
+      - alignment: 7502000089020000
+      values:
+      - {x: 0.5, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0.000000052154064, y: 0.000000052154064, z: -1}
+    handles:
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41400003, y: 0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.48800004, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.24200001, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.12100001, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.12100001, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.24200001, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.48800004, y: 0.71500003, z: -0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41400003, y: 0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.42900002, y: 0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.467, y: 0.71500003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.21100001, y: 0.71500003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 2.9608
+      values:
+      - {x: -0.39100003, y: 0.44000003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 4.4968
+      values:
+      - {x: 0.34100002, y: 0.44000003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.21100001, y: 0.71500003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.467, y: 0.71500003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.42900002, y: 0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41400003, y: 0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.48800004, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.24200001, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.12100001, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.12100001, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.24200001, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.48800004, y: 0.71500003, z: 0.393}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41400003, y: 0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.55, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: 0.55, z: -0.425}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.363, y: 0.71500003, z: -0.512}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.363, y: 0.71500003, z: -0.26200002}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.363, y: 0.71500003, z: -0.13100001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.363, y: 0.71500003, z: 0.13100001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.363, y: 0.71500003, z: 0.26200002}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.363, y: 0.71500003, z: 0.512}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: 0.55, z: 0.425}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.55, z: -0.43500003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.71500003, z: -0.49600002}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.71500003, z: -0.23400001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 3.6139
+      values:
+      - {x: 0, y: 0.44000003, z: -0.39200002}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 4.134
+      values:
+      - {x: 0, y: 0.44000003, z: 0.41900003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.71500003, z: 0.23400001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.71500003, z: 0.49600002}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.55, z: 0.43500003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: 0.55, z: -0.425}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.363, y: 0.71500003, z: -0.512}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.363, y: 0.71500003, z: -0.26200002}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.363, y: 0.71500003, z: -0.13100001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.363, y: 0.71500003, z: 0.13100001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.363, y: 0.71500003, z: 0.26200002}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.363, y: 0.71500003, z: 0.512}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: 0.55, z: 0.425}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.55, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.55, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.55, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.55, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.55, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.55, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.41700003, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.333, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.16700001, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.083000004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.083000004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.16700001, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.333, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.41700003, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.43100002, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.499, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.261, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.13000001, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.13000001, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.261, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.499, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.43100002, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.45600003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.46, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.261, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.13000001, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.13000001, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.261, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.46, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.45600003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.43100002, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.499, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.261, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.13000001, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.13000001, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.261, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.499, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.43100002, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.41700003, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.333, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.16700001, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.083000004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.083000004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.16700001, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.333, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.41700003, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.5, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.25, z: -0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: -0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: -0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: -0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: 0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: 0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: -0.39100003, z: 0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: -0.25, z: 0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0, z: -0.46100003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0, z: -0.47400004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0, z: -0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0, z: -0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0, z: 0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0, z: 0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0, z: 0.47400004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0, z: 0.46100003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.25, z: -0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: -0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: -0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: -0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: 0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: 0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.47500002, y: 0.39100003, z: 0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.25, z: 0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.55, y: 0.5, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.41700003, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.333, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.16700001, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.083000004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.083000004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.16700001, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.333, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.41700003, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.43100002, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.499, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.261, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.13000001, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.13000001, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.261, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.499, z: -0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.43100002, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.45600003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.46, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.261, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.13000001, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.13000001, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.261, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.46, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.45600003, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.43100002, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.499, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.261, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.13000001, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.13000001, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.261, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.499, z: 0.41000003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.43100002, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.41700003, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.333, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.16700001, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.083000004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.083000004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.16700001, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.333, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.41700003, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.5, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.25, z: -0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: -0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: -0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: -0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: 0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: 0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: -0.39100003, z: 0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: -0.25, z: 0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0, z: -0.46100003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0, z: -0.47400004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0, z: -0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0, z: -0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0, z: 0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0, z: 0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0, z: 0.47400004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0, z: 0.46100003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.25, z: -0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: -0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: -0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: -0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: 0.13700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: 0.273}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.47500002, y: 0.39100003, z: 0.51000005}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.25, z: 0.439}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: -0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: -0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: -0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: -0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: 0.083000004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: 0.16700001}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: 0.333}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.55, y: 0.5, z: 0.41700003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.432, y: -0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.49300003, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.259, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.12900001, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.12900001, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.259, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.49300003, y: -0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.432, y: -0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.45200002, y: 0, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.46300003, y: 0, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.252, y: 0, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 2.5
+      values:
+      - {x: -0.31300002, y: 0, z: 0.328}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 2.5
+      values:
+      - {x: 0.31300002, y: 0, z: 0.328}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.252, y: 0, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.46300003, y: 0, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.45200002, y: 0, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.432, y: 0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.49300003, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.259, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.12900001, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.12900001, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.259, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.49300003, y: 0.393, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.432, y: 0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.41700003, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.333, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.16700001, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.083000004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.083000004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.16700001, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.333, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.41700003, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.43400002, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: -0.49600002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: -0.26200002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: -0.13100001, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: 0.13100001, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: 0.26200002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: 0.49600002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: 0.43400002, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.453, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.467, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.25500003, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 2.5
+      values:
+      - {x: 0, y: -0.31300002, z: 0.328}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 2.5
+      values:
+      - {x: 0, y: 0.31300002, z: 0.328}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.25500003, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.467, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.453, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.43400002, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: -0.49600002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: -0.26200002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: -0.13100001, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: 0.13100001, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: 0.26200002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: 0.49600002, z: 0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: 0.43400002, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.41700003, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.333, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.16700001, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.083000004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.083000004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.16700001, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.333, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.41700003, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.432, y: -0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.49300003, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.259, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.12900001, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.12900001, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.259, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.49300003, y: -0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.432, y: -0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.45200002, y: 0, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.46300003, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.259, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.12900001, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.12900001, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.259, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.46300003, y: 0, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.45200002, y: 0, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.432, y: 0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.49300003, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.259, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.12900001, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.12900001, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.259, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.49300003, y: 0.393, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.432, y: 0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.41700003, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.333, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16700001, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.083000004, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.083000004, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16700001, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.333, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.41700003, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.41700003, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.333, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.16700001, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.083000004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.083000004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.16700001, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.333, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.41700003, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: -0.43400002, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: -0.49600002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: -0.26200002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: -0.13100001, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: 0.13100001, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: 0.26200002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.388, y: 0.49600002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.25, y: 0.43400002, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.453, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.467, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.26200002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: -0.13100001, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.13100001, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.26200002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.467, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0.453, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: -0.43400002, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: -0.49600002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: -0.26200002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: -0.13100001, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: 0.13100001, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: 0.26200002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.388, y: 0.49600002, z: -0.45800003}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.25, y: 0.43400002, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.41700003, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.333, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.16700001, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.083000004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.083000004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.16700001, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.333, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.41700003, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: -0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: -0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: -0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: -0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: -0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: -0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: -0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: -0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: -0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: -0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: 0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: 0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: 0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: 0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: 0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: 0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: 0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: 0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: 0.55, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: 0.52900004, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: -0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: -0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: -0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: -0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: -0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: -0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: -0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: -0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: -0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: -0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: 0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.5, y: 0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: 0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.25, y: 0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: 0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0, y: 0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: 0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.25, y: 0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: 0.55, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.5, y: 0.52900004, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.52900004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.52900004, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.52900004, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.52900004, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.52900004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.52900004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.52900004, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.52900004, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.52900004, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.52900004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.52900004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.52900004, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.52900004, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.52900004, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.52900004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.55, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.52900004, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.55, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.52900004, z: -0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.55, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.52900004, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.55, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.52900004, z: 0.25}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.55, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.52900004, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.5, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.25, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.25, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.5, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.5, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: -0.25, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: -0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.25, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.55, y: 0.5, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: 0.52900004, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.5, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.25, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.25, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.25, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.5, z: 0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.5, z: 0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.5, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: -0.25, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: -0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.25, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.25, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.55, y: 0.5, z: -0.52900004}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 0.80469996
+      values:
+      - {x: -0.52900004, y: 0.5, z: -0.55}
+      - {x: 0, y: 0, z: 0}
+  edgeData:
+  - edge: 0000960097000100
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 0100980099000200
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 02009a009b000300
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 03009c009d000400
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 05009e009f000600
+    hints: 01000100
+    normal: {x: -0.9821412, y: 0.18814513, z: 0.000000009812531}
+  - edge: 0600a000a1000700
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.00000005215406}
+  - edge: 0700a200a3000800
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.00000005215406}
+  - edge: 0800a400a5000900
+    hints: 01000100
+    normal: {x: 0.982292, y: 0.18735655, z: 0.000000009771403}
+  - edge: 0a00a600a7000b00
+    hints: 01000100
+    normal: {x: -0.9576673, y: 0.28787708, z: 0.000000015013958}
+  - edge: 0b00a800a9000c00
+    hints: 01000100
+    normal: {x: 0.9977331, y: 0.06729578, z: 0.0000000035097478}
+  - edge: 0c00aa00ab000d00
+    hints: 01000100
+    normal: {x: -0.99161714, y: 0.12921073, z: 0.0000000067388632}
+  - edge: 0d00ac00ad000e00
+    hints: 01000100
+    normal: {x: 0.95792145, y: 0.2870306, z: 0.00000001496981}
+  - edge: 0f00ae00af001000
+    hints: 01000100
+    normal: {x: -0.9821412, y: 0.1881451, z: 0.00000000981253}
+  - edge: 1000b000b1001100
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.00000005215406}
+  - edge: 1100b200b3001200
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.00000005215406}
+  - edge: 1200b400b5001300
+    hints: 01000100
+    normal: {x: 0.982292, y: 0.18735652, z: 0.000000009771402}
+  - edge: 1400b600b7001500
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 1500b800b9001600
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 1600ba00bb001700
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 1700bc00bd001800
+    hints: 01000100
+    normal: {x: -0, y: 1, z: 0.000000052154057}
+  - edge: 0000be00bf000500
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 0500c000c1000a00
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 0a00c200c3000f00
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 0f00c400c5001400
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 0100c600c7000600
+    hints: 01000100
+    normal: {x: 0.0000000031986145, y: 0.061330117, z: -0.9981175}
+  - edge: 0600c800c9000b00
+    hints: 01000100
+    normal: {x: 0.000000052154054, y: 1, z: -1.9770303e-11}
+  - edge: 0b00ca00cb001000
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -1.977405e-11}
+  - edge: 1000cc00cd001500
+    hints: 01000100
+    normal: {x: 0.0000000031323653, y: 0.060059857, z: 0.99819475}
+  - edge: 0200ce00cf000700
+    hints: 01000100
+    normal: {x: 0.0000000072493562, y: 0.13899888, z: -0.9902925}
+  - edge: 0700d000d1000c00
+    hints: 01000100
+    normal: {x: 0.0000000065031176, y: 0.12469054, z: 0.99219567}
+  - edge: 0c00d200d3001100
+    hints: 01000100
+    normal: {x: 0.0000000019581636, y: 0.03754576, z: -0.9992948}
+  - edge: 1100d400d5001600
+    hints: 01000100
+    normal: {x: 0.00000000721032, y: 0.13825041, z: 0.99039733}
+  - edge: 0300d600d7000800
+    hints: 01000100
+    normal: {x: 0.000000003198614, y: 0.06133011, z: -0.9981175}
+  - edge: 0800d800d9000d00
+    hints: 01000100
+    normal: {x: 0.000000052154054, y: 1, z: 1.9770303e-11}
+  - edge: 0d00da00db001200
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: 1.977405e-11}
+  - edge: 1200dc00dd001700
+    hints: 01000100
+    normal: {x: 0.0000000031323648, y: 0.06005985, z: 0.99819475}
+  - edge: 0400de00df000900
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 0900e000e1000e00
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 0e00e200e3001300
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 1300e400e5001800
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: 1, z: -0}
+  - edge: 1900e600e7001a00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 1a00e800e9001b00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 1b00ea00eb001c00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 1c00ec00ed001d00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 1e00ee00ef001f00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 1f00f000f1002000
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2000f200f3002100
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2100f400f5002200
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2300f600f7002400
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2400f800f9002500
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2500fa00fb002600
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2600fc00fd002700
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2800fe00ff002900
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2900000101012a00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2a00020103012b00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2b00040105012c00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2d00060107012e00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2e00080109012f00
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 2f000a010b013000
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 30000c010d013100
+    hints: 01000100
+    normal: {x: 0, y: -1, z: 0.000000052154064}
+  - edge: 19000e010f011e00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 1e00100111012300
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2300120113012800
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2800140115012d00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 1a00160117011f00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 1f00180119012400
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 24001a011b012900
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 29001c011d012e00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 1b001e011f012000
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2000200121012500
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2500220123012a00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2a00240125012f00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 1c00260127012100
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2100280129012600
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 26002a012b012b00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2b002c012d013000
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 1d002e012f012200
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2200300131012700
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2700320133012c00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 2c00340135013100
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: -1, z: 0}
+  - edge: 3200360137013300
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 3300380139013400
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 34003a013b013500
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 35003c013d013600
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 37003e013f013800
+    hints: 01000100
+    normal: {x: 0.265275, y: 0.9641728, z: 0.000000013835168}
+  - edge: 3800400141013900
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.0007611796, z: 0.000000052154043}
+  - edge: 3900420143013a00
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.0007614694, z: 0.000000052154043}
+  - edge: 3a00440145013b00
+    hints: 01000100
+    normal: {x: 0.26355037, y: -0.9646457, z: 0.000000013745221}
+  - edge: 3c00460147013d00
+    hints: 01000100
+    normal: {x: 0.57404375, y: 0.81882465, z: 0.00000002993871}
+  - edge: 3d00480149013e00
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.0007611796, z: 0.000000052154043}
+  - edge: 3e004a014b013f00
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.0007614694, z: 0.000000052154043}
+  - edge: 3f004c014d014000
+    hints: 01000100
+    normal: {x: 0.57360816, y: -0.8191298, z: 0.000000029915995}
+  - edge: 41004e014f014200
+    hints: 01000100
+    normal: {x: 0.2652751, y: 0.9641728, z: 0.000000013835171}
+  - edge: 4200500151014300
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.0007611796, z: 0.000000052154043}
+  - edge: 4300520153014400
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.0007614694, z: 0.000000052154043}
+  - edge: 4400540155014500
+    hints: 01000100
+    normal: {x: 0.26355043, y: -0.9646456, z: 0.000000013745224}
+  - edge: 4600560157014700
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 4700580159014800
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 48005a015b014900
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 49005c015d014a00
+    hints: 01000100
+    normal: {x: 1, y: -0, z: 0.000000052154057}
+  - edge: 32005e015f013700
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 3700600161013c00
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 3c00620163014100
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 4100640165014600
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 3300660167013800
+    hints: 01000100
+    normal: {x: 0.12468082, y: 0.0000000065026105, z: 0.99219686}
+  - edge: 3800680169013d00
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.00000005215404, z: 0.0007275371}
+  - edge: 3d006a016b014200
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.000000052154043, z: 0.00072766945}
+  - edge: 42006c016d014700
+    hints: 01000100
+    normal: {x: 0.12630135, y: 0.0000000065871277, z: -0.9919919}
+  - edge: 34006e016f013900
+    hints: 01000100
+    normal: {x: 0.4556711, y: 0.000000023765097, z: 0.89014816}
+  - edge: 3900700171013e00
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.00000005215404, z: 0.0007275371}
+  - edge: 3e00720173014300
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.000000052154043, z: 0.00072766945}
+  - edge: 4300740175014800
+    hints: 01000100
+    normal: {x: 0.4556934, y: 0.000000023766258, z: -0.89013684}
+  - edge: 3500760177013a00
+    hints: 01000100
+    normal: {x: 0.12468083, y: 0.0000000065026113, z: 0.99219686}
+  - edge: 3a00780179013f00
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.00000005215404, z: 0.0007275371}
+  - edge: 3f007a017b014400
+    hints: 01000100
+    normal: {x: 0.9999997, y: 0.000000052154043, z: 0.00072766945}
+  - edge: 44007c017d014900
+    hints: 01000100
+    normal: {x: 0.12630138, y: 0.000000006587129, z: -0.99199194}
+  - edge: 36007e017f013b00
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 3b00800181014000
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 4000820183014500
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 4500840185014a00
+    hints: 01000100
+    normal: {x: 1, y: 0.000000052154057, z: -0}
+  - edge: 4b00860187014c00
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 4c00880189014d00
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 4d008a018b014e00
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 4e008c018d014f00
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 50008e018f015100
+    hints: 01000100
+    normal: {x: -0.265275, y: 0.9641728, z: 0.00000001383517}
+  - edge: 5100900191015200
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.0007611796, z: 0.000000052154046}
+  - edge: 5200920193015300
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.0007614694, z: 0.00000005215405}
+  - edge: 5300940195015400
+    hints: 01000100
+    normal: {x: -0.26355037, y: -0.9646457, z: 0.000000013745224}
+  - edge: 5500960197015600
+    hints: 01000100
+    normal: {x: -0.57404375, y: 0.81882465, z: 0.000000029938715}
+  - edge: 5600980199015700
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.0007611796, z: 0.000000052154046}
+  - edge: 57009a019b015800
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.0007614694, z: 0.00000005215405}
+  - edge: 58009c019d015900
+    hints: 01000100
+    normal: {x: -0.57360816, y: -0.8191298, z: 0.000000029915995}
+  - edge: 5a009e019f015b00
+    hints: 01000100
+    normal: {x: -0.2652751, y: 0.9641728, z: 0.000000013835173}
+  - edge: 5b00a001a1015c00
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.0007611796, z: 0.000000052154046}
+  - edge: 5c00a201a3015d00
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.0007614694, z: 0.00000005215405}
+  - edge: 5d00a401a5015e00
+    hints: 01000100
+    normal: {x: -0.26355043, y: -0.9646456, z: 0.000000013745225}
+  - edge: 5f00a601a7016000
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 6000a801a9016100
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 6100aa01ab016200
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 6200ac01ad016300
+    hints: 01000100
+    normal: {x: -1, y: 0, z: 0.000000052154064}
+  - edge: 4b00ae01af015000
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 5000b001b1015500
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 5500b201b3015a00
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 5a00b401b5015f00
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 4c00b601b7015100
+    hints: 01000100
+    normal: {x: -0.12468082, y: 0.0000000065026113, z: 0.99219686}
+  - edge: 5100b801b9015600
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.00000005215405, z: 0.0007275371}
+  - edge: 5600ba01bb015b00
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.00000005215405, z: 0.00072766945}
+  - edge: 5b00bc01bd016000
+    hints: 01000100
+    normal: {x: -0.12630135, y: 0.0000000065871286, z: -0.9919919}
+  - edge: 4d00be01bf015200
+    hints: 01000100
+    normal: {x: -0.4556711, y: 0.0000000237651, z: 0.89014816}
+  - edge: 5200c001c1015700
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.00000005215405, z: 0.0007275371}
+  - edge: 5700c201c3015c00
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.00000005215405, z: 0.00072766945}
+  - edge: 5c00c401c5016100
+    hints: 01000100
+    normal: {x: -0.4556934, y: 0.000000023766262, z: -0.89013684}
+  - edge: 4e00c601c7015300
+    hints: 01000100
+    normal: {x: -0.12468083, y: 0.0000000065026122, z: 0.99219686}
+  - edge: 5300c801c9015800
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.00000005215405, z: 0.0007275371}
+  - edge: 5800ca01cb015d00
+    hints: 01000100
+    normal: {x: -0.9999997, y: 0.00000005215405, z: 0.00072766945}
+  - edge: 5d00cc01cd016200
+    hints: 01000100
+    normal: {x: -0.12630138, y: 0.00000000658713, z: -0.99199194}
+  - edge: 4f00ce01cf015400
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 5400d001d1015900
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 5900d201d3015e00
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 5e00d401d5016300
+    hints: 01000100
+    normal: {x: -1, y: 0.000000052154064, z: 0}
+  - edge: 6400d601d7016500
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 6500d801d9016600
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 6600da01db016700
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 6700dc01dd016800
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 6900de01df016a00
+    hints: 01000100
+    normal: {x: 0.9634585, y: 0.000000013969884, z: 0.26785803}
+  - edge: 6a00e001e1016b00
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154043, z: 0.9999997}
+  - edge: 6b00e201e3016c00
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154043, z: 0.9999997}
+  - edge: 6c00e401e5016d00
+    hints: 01000100
+    normal: {x: -0.9638453, y: 0.000000013897106, z: 0.2664626}
+  - edge: 6e00e601e7016f00
+    hints: 01000100
+    normal: {x: 0.8771721, y: 0.000000025043132, z: 0.4801761}
+  - edge: 6f00e801e9017000
+    hints: 01000100
+    normal: {x: 0.7584307, y: 0.000000033991594, z: 0.6517536}
+  - edge: 7000ea01eb017100
+    hints: 01000100
+    normal: {x: -0.758792, y: 0.00000003396966, z: 0.65133303}
+  - edge: 7100ec01ed017200
+    hints: 01000100
+    normal: {x: -0.8767351, y: 0.000000025084718, z: 0.48097348}
+  - edge: 7300ee01ef017400
+    hints: 01000100
+    normal: {x: 0.96345836, y: 0.000000013969885, z: 0.26785806}
+  - edge: 7400f001f1017500
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154043, z: 0.9999997}
+  - edge: 7500f201f3017600
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154043, z: 0.9999997}
+  - edge: 7600f401f5017700
+    hints: 01000100
+    normal: {x: -0.9638453, y: 0.000000013897109, z: 0.26646265}
+  - edge: 7800f601f7017900
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 7900f801f9017a00
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 7a00fa01fb017b00
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 7b00fc01fd017c00
+    hints: 01000100
+    normal: {x: -0, y: 0.000000052154057, z: 1}
+  - edge: 6400fe01ff016900
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 6900000201026e00
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 6e00020203027300
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 7300040205027800
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 6500060207026a00
+    hints: 01000100
+    normal: {x: 0.000000012392154, y: 0.97136146, z: 0.23760672}
+  - edge: 6a00080209026f00
+    hints: 01000100
+    normal: {x: 0.00000005215404, y: 0.0007581499, z: 0.9999997}
+  - edge: 6f000a020b027400
+    hints: 01000100
+    normal: {x: 0.000000052154043, y: 0.0007582936, z: 0.9999997}
+  - edge: 74000c020d027900
+    hints: 01000100
+    normal: {x: 0.000000012365783, y: -0.971485, z: 0.23710108}
+  - edge: 66000e020f026b00
+    hints: 01000100
+    normal: {x: 0.000000023524423, y: 0.89249545, z: 0.45105642}
+  - edge: 6b00100211027000
+    hints: 01000100
+    normal: {x: 0.00000003465626, y: 0.74729013, z: 0.6644979}
+  - edge: 7000120213027500
+    hints: 01000100
+    normal: {x: 0.00000003465626, y: -0.74729013, z: 0.6644979}
+  - edge: 7500140215027a00
+    hints: 01000100
+    normal: {x: 0.000000023524853, y: -0.8924912, z: 0.45106468}
+  - edge: 6700160217026c00
+    hints: 01000100
+    normal: {x: 0.000000012392156, y: 0.9713614, z: 0.23760673}
+  - edge: 6c00180219027100
+    hints: 01000100
+    normal: {x: 0.00000005215404, y: 0.0007581499, z: 0.9999997}
+  - edge: 71001a021b027600
+    hints: 01000100
+    normal: {x: 0.000000052154043, y: 0.0007582936, z: 0.9999997}
+  - edge: 76001c021d027b00
+    hints: 01000100
+    normal: {x: 0.000000012365784, y: -0.9714849, z: 0.2371011}
+  - edge: 68001e021f026d00
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 6d00200221027200
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 7200220223027700
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 7700240225027c00
+    hints: 01000100
+    normal: {x: 0.000000052154057, y: -0, z: 1}
+  - edge: 7d00260227027e00
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 7e00280229027f00
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 7f002a022b028000
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 80002c022d028100
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 82002e022f028300
+    hints: 01000100
+    normal: {x: 0.9634585, y: 0.000000013969885, z: -0.26785803}
+  - edge: 8300300231028400
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154046, z: -0.9999997}
+  - edge: 8400320233028500
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154046, z: -0.9999997}
+  - edge: 8500340235028600
+    hints: 01000100
+    normal: {x: -0.9638453, y: 0.0000000138971075, z: -0.2664626}
+  - edge: 8700360237028800
+    hints: 01000100
+    normal: {x: 0.8771721, y: 0.000000025043136, z: -0.4801761}
+  - edge: 8800380239028900
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154046, z: -0.9999997}
+  - edge: 89003a023b028a00
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154046, z: -0.9999997}
+  - edge: 8a003c023d028b00
+    hints: 01000100
+    normal: {x: -0.8767351, y: 0.000000025084722, z: -0.48097348}
+  - edge: 8c003e023f028d00
+    hints: 01000100
+    normal: {x: 0.96345836, y: 0.000000013969887, z: -0.26785806}
+  - edge: 8d00400241028e00
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154046, z: -0.9999997}
+  - edge: 8e00420243028f00
+    hints: 01000100
+    normal: {x: 0.000767018, y: 0.000000052154046, z: -0.9999997}
+  - edge: 8f00440245029000
+    hints: 01000100
+    normal: {x: -0.9638453, y: 0.00000001389711, z: -0.26646265}
+  - edge: 9100460247029200
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 9200480249029300
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 93004a024b029400
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 94004c024d029500
+    hints: 01000100
+    normal: {x: 0, y: 0.000000052154064, z: -1}
+  - edge: 7d004e024f028200
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 8200500251028700
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 8700520253028c00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 8c00540255029100
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 7e00560257028300
+    hints: 01000100
+    normal: {x: 0.000000012392156, y: 0.97136146, z: -0.23760672}
+  - edge: 8300580259028800
+    hints: 01000100
+    normal: {x: 0.00000005215405, y: 0.0007581499, z: -0.9999997}
+  - edge: 88005a025b028d00
+    hints: 01000100
+    normal: {x: 0.000000052154046, y: 0.0007582936, z: -0.9999997}
+  - edge: 8d005c025d029200
+    hints: 01000100
+    normal: {x: 0.000000012365785, y: -0.971485, z: -0.23710108}
+  - edge: 7f005e025f028400
+    hints: 01000100
+    normal: {x: 0.000000023524427, y: 0.89249545, z: -0.45105642}
+  - edge: 8400600261028900
+    hints: 01000100
+    normal: {x: 0.00000005215405, y: 0.0007581499, z: -0.9999997}
+  - edge: 8900620263028e00
+    hints: 01000100
+    normal: {x: 0.000000052154046, y: 0.0007582936, z: -0.9999997}
+  - edge: 8e00640265029300
+    hints: 01000100
+    normal: {x: 0.000000023524857, y: -0.8924912, z: -0.45106468}
+  - edge: 8000660267028500
+    hints: 01000100
+    normal: {x: 0.0000000123921575, y: 0.9713614, z: -0.23760673}
+  - edge: 8500680269028a00
+    hints: 01000100
+    normal: {x: 0.00000005215405, y: 0.0007581499, z: -0.9999997}
+  - edge: 8a006a026b028f00
+    hints: 01000100
+    normal: {x: 0.000000052154046, y: 0.0007582936, z: -0.9999997}
+  - edge: 8f006c026d029400
+    hints: 01000100
+    normal: {x: 0.000000012365786, y: -0.9714849, z: -0.2371011}
+  - edge: 81006e026f028600
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 8600700271028b00
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 8b00720273029000
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 9000740275029500
+    hints: 01000100
+    normal: {x: 0.000000052154064, y: 0, z: -1}
+  - edge: 1900760277027d00
+    hints: 01000100
+    normal: {x: 0.000000036878493, y: -0.7071068, z: -0.7071068}
+  - edge: 1a00780279027e00
+    hints: 01000100
+    normal: {x: 0.000000036878493, y: -0.7071068, z: -0.7071068}
+  - edge: 1b007a027b027f00
+    hints: 01000100
+    normal: {x: 0.000000036878493, y: -0.7071068, z: -0.7071068}
+  - edge: 1c007c027d028000
+    hints: 01000100
+    normal: {x: 0.000000036878493, y: -0.7071068, z: -0.7071068}
+  - edge: 1d007e027f028100
+    hints: 01000100
+    normal: {x: 0.000000036878493, y: -0.7071068, z: -0.7071068}
+  - edge: 0000800281029100
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: -0.7071068}
+  - edge: 0100820283029200
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: -0.7071068}
+  - edge: 0200840285029300
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: -0.7071068}
+  - edge: 0300860287029400
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: -0.7071068}
+  - edge: 0400880289029500
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: -0.7071068}
+  - edge: 2d008a028b026400
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: -0.7071068, z: 0.7071068}
+  - edge: 2e008c028d026500
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: -0.7071068, z: 0.7071068}
+  - edge: 2f008e028f026600
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: -0.7071068, z: 0.7071068}
+  - edge: 3000900291026700
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: -0.7071068, z: 0.7071068}
+  - edge: 3100920293026800
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: -0.7071068, z: 0.7071068}
+  - edge: 1400940295027800
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: 0.7071068}
+  - edge: 1500960297027900
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: 0.7071068}
+  - edge: 1600980299027a00
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: 0.7071068}
+  - edge: 17009a029b027b00
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: 0.7071068}
+  - edge: 18009c029d027c00
+    hints: 01000100
+    normal: {x: 0.00000003687849, y: 0.7071068, z: 0.7071068}
+  - edge: 19009e029f024b00
+    hints: 01000100
+    normal: {x: -0.7071068, y: -0.7071068, z: 0.000000036878493}
+  - edge: 1e00a002a1025000
+    hints: 01000100
+    normal: {x: -0.7071068, y: -0.7071068, z: 0.000000036878493}
+  - edge: 2300a202a3025500
+    hints: 01000100
+    normal: {x: -0.7071068, y: -0.7071068, z: 0.000000036878493}
+  - edge: 2800a402a5025a00
+    hints: 01000100
+    normal: {x: -0.7071068, y: -0.7071068, z: 0.000000036878493}
+  - edge: 2d00a602a7025f00
+    hints: 01000100
+    normal: {x: -0.7071068, y: -0.7071068, z: 0.000000036878493}
+  - edge: 0000a802a9024f00
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 0500aa02ab025400
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 0a00ac02ad025900
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 0f00ae02af025e00
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 1400b002b1026300
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 1d00b202b3023200
+    hints: 01000100
+    normal: {x: 0.7071068, y: -0.7071068, z: 0.00000003687849}
+  - edge: 2200b402b5023700
+    hints: 01000100
+    normal: {x: 0.7071068, y: -0.7071068, z: 0.00000003687849}
+  - edge: 2700b602b7023c00
+    hints: 01000100
+    normal: {x: 0.7071068, y: -0.7071068, z: 0.00000003687849}
+  - edge: 2c00b802b9024100
+    hints: 01000100
+    normal: {x: 0.7071068, y: -0.7071068, z: 0.00000003687849}
+  - edge: 3100ba02bb024600
+    hints: 01000100
+    normal: {x: 0.7071068, y: -0.7071068, z: 0.00000003687849}
+  - edge: 0400bc02bd023600
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 0900be02bf023b00
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 0e00c002c1024000
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 1300c202c3024500
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 1800c402c5024a00
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.7071068, z: 0.00000003687849}
+  - edge: 8100c602c7023200
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: -0.7071068}
+  - edge: 8600c802c9023300
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: -0.7071068}
+  - edge: 8b00ca02cb023400
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: -0.7071068}
+  - edge: 9000cc02cd023500
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: -0.7071068}
+  - edge: 9500ce02cf023600
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: -0.7071068}
+  - edge: 4600d002d1026800
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 4700d202d3026d00
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 4800d402d5027200
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 4900d602d7027700
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 4a00d802d9027c00
+    hints: 01000100
+    normal: {x: 0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 6400da02db025f00
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 6900dc02dd026000
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 6e00de02df026100
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 7300e002e1026200
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 7800e202e3026300
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.00000003687849, z: 0.7071068}
+  - edge: 4b00e402e5027d00
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.000000036878493, z: -0.7071068}
+  - edge: 4c00e602e7028200
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.000000036878493, z: -0.7071068}
+  - edge: 4d00e802e9028700
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.000000036878493, z: -0.7071068}
+  - edge: 4e00ea02eb028c00
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.000000036878493, z: -0.7071068}
+  - edge: 4f00ec02ed029100
+    hints: 01000100
+    normal: {x: -0.7071068, y: 0.000000036878493, z: -0.7071068}
+  geometry:
+  - name: 
+    faces:
+    - sides: e7ffffffffffffff1500000005000000
+      schema: 200
+    - sides: f5feffffebffffff0a0100009d000000
+      schema: 200
+    - sides: d4fefffff6fefffff6000000
+      schema: 200
+    - sides: 27ffffff0affffff01000000f7000000
+      schema: 200
+    - sides: e3fffffffeffffff1900000006000000
+      schema: 200
+    - sides: 26ffffff09ffffff02000000f8000000
+      schema: 200
+    - sides: dffffffffdffffff1d00000007000000
+      schema: 200
+    - sides: 25ffffff08ffffff03000000f9000000
+      schema: 200
+    - sides: dbfffffffcffffff2100000008000000
+      schema: 200
+    - sides: 24ffffff07ffffff04000000fa000000
+      schema: 200
+    - sides: 8bffffffecfeffff2500000015010000
+      schema: 200
+    - sides: 06ffffff14010000e3feffff
+      schema: 200
+    - sides: f4feffffeaffffff0b0100009e000000
+      schema: 200
+    - sides: e6fffffffbffffff1600000009000000
+      schema: 200
+    - sides: e2fffffffaffffff1a0000000a000000
+      schema: 200
+    - sides: defffffff9ffffff1e0000000b000000
+      schema: 200
+    - sides: dafffffff8ffffff220000000c000000
+      schema: 200
+    - sides: 8affffffebfeffff2600000016010000
+      schema: 200
+    - sides: f3feffffe9ffffff0c0100009f000000
+      schema: 200
+    - sides: e5fffffff7ffffff170000000d000000
+      schema: 200
+    - sides: e1fffffff6ffffff1b0000000e000000
+      schema: 200
+    - sides: ddfffffff5ffffff1f0000000f000000
+      schema: 200
+    - sides: d9fffffff4ffffff2300000010000000
+      schema: 200
+    - sides: 89ffffffeafeffff2700000017010000
+      schema: 200
+    - sides: f2feffffe8ffffff0d010000a0000000
+      schema: 200
+    - sides: e4fffffff3ffffff1800000011000000
+      schema: 200
+    - sides: e0fffffff2ffffff1c00000012000000
+      schema: 200
+    - sides: dcfffffff1ffffff2000000013000000
+      schema: 200
+    - sides: d8fffffff0ffffff2400000014000000
+      schema: 200
+    - sides: 88ffffffe9feffff2800000018010000
+      schema: 200
+    - sides: 00ffffff0e010000d9feffff
+      schema: 200
+    - sides: fffeffffefffffff00010000b1000000
+      schema: 200
+    - sides: fefeffffeeffffff01010000b2000000
+      schema: 200
+    - sides: fdfeffffedffffff02010000b3000000
+      schema: 200
+    - sides: fcfeffffecffffff03010000b4000000
+      schema: 200
+    - sides: defeffffe8feffff04010000
+      schema: 200
+    - sides: d3ffffffc3ffffff2900000041000000
+      schema: 200
+    - sides: 73fffffffbfeffff3d00000006010000
+      schema: 200
+    - sides: 0fffffff0501000028010000
+      schema: 200
+    - sides: 0effffffd7fffffff1000000c9000000
+      schema: 200
+    - sides: d2ffffffbfffffff2a00000045000000
+      schema: 200
+    - sides: 0dffffffd6fffffff2000000ca000000
+      schema: 200
+    - sides: d1ffffffbbffffff2b00000049000000
+      schema: 200
+    - sides: 0cffffffd5fffffff3000000cb000000
+      schema: 200
+    - sides: d0ffffffb7ffffff2c0000004d000000
+      schema: 200
+    - sides: 0bffffffd4fffffff4000000cc000000
+      schema: 200
+    - sides: f0feffffb3ffffff0f01000065000000
+      schema: 200
+    - sides: 19010000f1fefffff5000000
+      schema: 200
+    - sides: 72fffffffafeffff3e00000007010000
+      schema: 200
+    - sides: cfffffffc2ffffff2d00000042000000
+      schema: 200
+    - sides: ceffffffbeffffff2e00000046000000
+      schema: 200
+    - sides: cdffffffbaffffff2f0000004a000000
+      schema: 200
+    - sides: ccffffffb6ffffff300000004e000000
+      schema: 200
+    - sides: effeffffb2ffffff1001000066000000
+      schema: 200
+    - sides: 71fffffff9feffff3f00000008010000
+      schema: 200
+    - sides: cbffffffc1ffffff3100000043000000
+      schema: 200
+    - sides: caffffffbdffffff3200000047000000
+      schema: 200
+    - sides: c9ffffffb9ffffff330000004b000000
+      schema: 200
+    - sides: c8ffffffb5ffffff340000004f000000
+      schema: 200
+    - sides: eefeffffb1ffffff1101000067000000
+      schema: 200
+    - sides: 70fffffff8feffff4000000009010000
+      schema: 200
+    - sides: c7ffffffc0ffffff3500000044000000
+      schema: 200
+    - sides: c6ffffffbcffffff3600000048000000
+      schema: 200
+    - sides: c5ffffffb8ffffff370000004c000000
+      schema: 200
+    - sides: c4ffffffb4ffffff3800000050000000
+      schema: 200
+    - sides: edfeffffb0ffffff1201000068000000
+      schema: 200
+    - sides: 23010000f7fefffffb000000
+      schema: 200
+    - sides: 5fffffff05ffffff39000000fc000000
+      schema: 200
+    - sides: 5effffff04ffffff3a000000fd000000
+      schema: 200
+    - sides: 5dffffff03ffffff3b000000fe000000
+      schema: 200
+    - sides: 5cffffff02ffffff3c000000ff000000
+      schema: 200
+    - sides: 01ffffff130100001e010000
+      schema: 200
+    - sides: abffffff9bffffff5100000069000000
+      schema: 200
+    - sides: 1a010000afffffffe7feffffed000000
+      schema: 200
+    - sides: aaffffff97ffffff520000006d000000
+      schema: 200
+    - sides: 1b010000aeffffffe6feffffee000000
+      schema: 200
+    - sides: a9ffffff93ffffff5300000071000000
+      schema: 200
+    - sides: 1c010000adffffffe5feffffef000000
+      schema: 200
+    - sides: a8ffffff8fffffff5400000075000000
+      schema: 200
+    - sides: 1d010000acffffffe4fefffff0000000
+      schema: 200
+    - sides: a7ffffff9affffff550000006a000000
+      schema: 200
+    - sides: a6ffffff96ffffff560000006e000000
+      schema: 200
+    - sides: a5ffffff92ffffff5700000072000000
+      schema: 200
+    - sides: a4ffffff8effffff5800000076000000
+      schema: 200
+    - sides: a3ffffff99ffffff590000006b000000
+      schema: 200
+    - sides: a2ffffff95ffffff5a0000006f000000
+      schema: 200
+    - sides: a1ffffff91ffffff5b00000073000000
+      schema: 200
+    - sides: a0ffffff8dffffff5c00000077000000
+      schema: 200
+    - sides: 9fffffff98ffffff5d0000006c000000
+      schema: 200
+    - sides: 9effffff94ffffff5e00000070000000
+      schema: 200
+    - sides: 9dffffff90ffffff5f00000074000000
+      schema: 200
+    - sides: 9cffffff8cffffff6000000078000000
+      schema: 200
+    - sides: 3bffffffe2feffff610000001f010000
+      schema: 200
+    - sides: 3affffffe1feffff6200000020010000
+      schema: 200
+    - sides: 39ffffffe0feffff6300000021010000
+      schema: 200
+    - sides: 38ffffffdffeffff6400000022010000
+      schema: 200
+    - sides: 6fffffff87ffffff8d0000007d000000
+      schema: 200
+    - sides: 23ffffffd8feffff7900000029010000
+      schema: 200
+    - sides: 6bffffff86ffffff910000007e000000
+      schema: 200
+    - sides: 22ffffffd7feffff7a0000002a010000
+      schema: 200
+    - sides: 67ffffff85ffffff950000007f000000
+      schema: 200
+    - sides: 21ffffffd6feffff7b0000002b010000
+      schema: 200
+    - sides: 63ffffff84ffffff9900000080000000
+      schema: 200
+    - sides: 20ffffffd5feffff7c0000002c010000
+      schema: 200
+    - sides: 6effffff83ffffff8e00000081000000
+      schema: 200
+    - sides: 6affffff82ffffff9200000082000000
+      schema: 200
+    - sides: 66ffffff81ffffff9600000083000000
+      schema: 200
+    - sides: 62ffffff80ffffff9a00000084000000
+      schema: 200
+    - sides: 6dffffff7fffffff8f00000085000000
+      schema: 200
+    - sides: 69ffffff7effffff9300000086000000
+      schema: 200
+    - sides: 65ffffff7dffffff9700000087000000
+      schema: 200
+    - sides: 61ffffff7cffffff9b00000088000000
+      schema: 200
+    - sides: 6cffffff7bffffff9000000089000000
+      schema: 200
+    - sides: 68ffffff7affffff940000008a000000
+      schema: 200
+    - sides: 64ffffff79ffffff980000008b000000
+      schema: 200
+    - sides: 60ffffff78ffffff9c0000008c000000
+      schema: 200
+    - sides: 2401000077ffffffddfeffffb5000000
+      schema: 200
+    - sides: 2501000076ffffffdcfeffffb6000000
+      schema: 200
+    - sides: 2601000075ffffffdbfeffffb7000000
+      schema: 200
+    - sides: 2701000074ffffffdafeffffb8000000
+      schema: 200
+    - sides: 5bffffff4bffffffa1000000b9000000
+      schema: 200
+    - sides: 5affffff47ffffffa2000000bd000000
+      schema: 200
+    - sides: 59ffffff43ffffffa3000000c1000000
+      schema: 200
+    - sides: 58ffffff3fffffffa4000000c5000000
+      schema: 200
+    - sides: 57ffffff4affffffa5000000ba000000
+      schema: 200
+    - sides: 56ffffff46ffffffa6000000be000000
+      schema: 200
+    - sides: 55ffffff42ffffffa7000000c2000000
+      schema: 200
+    - sides: 54ffffff3effffffa8000000c6000000
+      schema: 200
+    - sides: 53ffffff49ffffffa9000000bb000000
+      schema: 200
+    - sides: 52ffffff45ffffffaa000000bf000000
+      schema: 200
+    - sides: 51ffffff41ffffffab000000c3000000
+      schema: 200
+    - sides: 50ffffff3dffffffac000000c7000000
+      schema: 200
+    - sides: 4fffffff48ffffffad000000bc000000
+      schema: 200
+    - sides: 4effffff44ffffffae000000c0000000
+      schema: 200
+    - sides: 4dffffff40ffffffaf000000c4000000
+      schema: 200
+    - sides: 4cffffff3cffffffb0000000c8000000
+      schema: 200
+    - sides: 1fffffff37ffffffdd000000cd000000
+      schema: 200
+    - sides: 1bffffff36ffffffe1000000ce000000
+      schema: 200
+    - sides: 17ffffff35ffffffe5000000cf000000
+      schema: 200
+    - sides: 13ffffff34ffffffe9000000d0000000
+      schema: 200
+    - sides: 1effffff33ffffffde000000d1000000
+      schema: 200
+    - sides: 1affffff32ffffffe2000000d2000000
+      schema: 200
+    - sides: 16ffffff31ffffffe6000000d3000000
+      schema: 200
+    - sides: 12ffffff30ffffffea000000d4000000
+      schema: 200
+    - sides: 1dffffff2fffffffdf000000d5000000
+      schema: 200
+    - sides: 19ffffff2effffffe3000000d6000000
+      schema: 200
+    - sides: 15ffffff2dffffffe7000000d7000000
+      schema: 200
+    - sides: 11ffffff2cffffffeb000000d8000000
+      schema: 200
+    - sides: 1cffffff2bffffffe0000000d9000000
+      schema: 200
+    - sides: 18ffffff2affffffe4000000da000000
+      schema: 200
+    - sides: 14ffffff29ffffffe8000000db000000
+      schema: 200
+    - sides: 10ffffff28ffffffec000000dc000000
+      schema: 200
+    unwrapGroups: []

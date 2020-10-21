@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 480125147, guid: cff40e976d1f4094b9d1b41ffc6dd20d, type: 3}
+  m_Name: CurvedPoly_Assets_Primitives_Simple_Quad2x_model0
+  m_EditorClassIdentifier: 
+  runtimeAssetGUID: 5b1f7c4a17d6d7c4f9f2e189b9121cf0
+  vertices:
+    mainvertices:
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: -0.5, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments:
+      - alignment: 0a0000000b000000
+      values:
+      - {x: 0, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: 0.5, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments:
+      - alignment: 1600000017000000
+      values:
+      - {x: -0.5, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments:
+      - alignment: 0e0000000f000000
+      - alignment: 1a0000001b000000
+      values:
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments:
+      - alignment: 1e0000001f000000
+      values:
+      - {x: 0.5, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: -0.5, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments:
+      - alignment: 1200000013000000
+      values:
+      - {x: 0, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: 0.5, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    handles:
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.33333334, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16666666, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16666666, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.33333334, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.33333334, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16666666, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16666666, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.33333334, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.33333334, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16666666, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16666666, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.33333334, y: 0, z: 0.5}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0, z: -0.33333334}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0, z: -0.16666666}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0, z: 0.16666666}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0, z: 0.33333334}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0, z: -0.33333334}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0, z: -0.16666666}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0, z: 0.16666666}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0, y: 0, z: 0.33333334}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0, z: -0.33333334}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0, z: -0.16666666}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0, z: 0.16666666}
+      - {x: 0, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0, z: 0.33333334}
+      - {x: 0, y: 0, z: 0}
+  edgeData:
+  - edge: 000009000a000100
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 01000b000c000200
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 03000d000e000400
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 04000f0010000500
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 0600110012000700
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 0700130014000800
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 0000150016000300
+    hints: 04000400
+    normal: {x: 0, y: 1, z: -0}
+  - edge: 0300170018000600
+    hints: 04000400
+    normal: {x: 0, y: 1, z: -0}
+  - edge: 010019001a000400
+    hints: 04000400
+    normal: {x: 0, y: 1, z: -0}
+  - edge: 04001b001c000700
+    hints: 04000400
+    normal: {x: 0, y: 1, z: -0}
+  - edge: 02001d001e000500
+    hints: 04000400
+    normal: {x: 0, y: 1, z: -0}
+  - edge: 05001f0020000800
+    hints: 04000400
+    normal: {x: 0, y: 1, z: -0}
+  geometry:
+  - name: 
+    faces:
+    - sides: f7ffffffffffffff0700000003000000
+      schema: 200
+    - sides: f5fffffffeffffff0900000004000000
+      schema: 200
+    - sides: f6fffffffdffffff0800000005000000
+      schema: 200
+    - sides: f4fffffffcffffff0a00000006000000
+      schema: 200
+    unwrapGroups: []

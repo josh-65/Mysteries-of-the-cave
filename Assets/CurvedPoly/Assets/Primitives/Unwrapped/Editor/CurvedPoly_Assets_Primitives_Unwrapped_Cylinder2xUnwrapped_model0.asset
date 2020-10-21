@@ -1,0 +1,564 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 480125147, guid: cff40e976d1f4094b9d1b41ffc6dd20d, type: 3}
+  m_Name: CurvedPoly_Assets_Primitives_Unwrapped_Cylinder2xUnwrapped_model0
+  m_EditorClassIdentifier: 
+  runtimeAssetGUID: 9ba7b5bed09d671498061924a425b9cc
+  vertices:
+    mainvertices:
+    - smooth: 1
+      alignments:
+      - alignment: 0e00000043000000
+      - alignment: 260000002d000000
+      values:
+      - {x: 0.5, y: 0, z: 0}
+      - {x: 1, y: 0.08333333, z: 0}
+      - {x: 1, y: 0.08333333, z: 0}
+      editingNormal: {x: 0.99961954, y: 0, z: 0.027582558}
+    - smooth: 1
+      alignments:
+      - alignment: 1e00000025000000
+      - alignment: 100000000f000000
+      values:
+      - {x: 0.5, y: 0.5, z: 0}
+      - {x: 1, y: 0.49999997, z: 0}
+      - {x: 1, y: 0.49999997, z: 0}
+      editingNormal: {x: 0.99961954, y: -0.00000035749318, z: -0.027582558}
+    - smooth: 1
+      alignments:
+      - alignment: 1100000039000000
+      - alignment: 160000001d000000
+      values:
+      - {x: 0.5, y: 1, z: 0}
+      - {x: 1, y: 0.9166666, z: 0}
+      - {x: 1, y: 0.9166666, z: 0}
+      editingNormal: {x: 0.99961954, y: 0, z: -0.027582558}
+    - smooth: 1
+      alignments:
+      - alignment: 120000003f000000
+      - alignment: 290000002a000000
+      values:
+      - {x: -0.5, y: 0, z: 0}
+      - {x: 0, y: 0.08333333, z: 0}
+      - {x: 0, y: 0.08333333, z: 0}
+      editingNormal: {x: -0.99961954, y: 0, z: 0.027582183}
+    - smooth: 1
+      alignments:
+      - alignment: 2100000022000000
+      - alignment: 1400000013000000
+      values:
+      - {x: -0.5, y: 0.5, z: 0}
+      - {x: 0, y: 0.49999997, z: 0}
+      - {x: 0, y: 0.49999997, z: 0}
+      editingNormal: {x: -0.99961954, y: 0.00000035749318, z: -0.027582183}
+    - smooth: 1
+      alignments:
+      - alignment: 150000003d000000
+      - alignment: 190000001a000000
+      values:
+      - {x: -0.5, y: 1, z: 0}
+      - {x: 0, y: 0.9166666, z: 0}
+      - {x: 0, y: 0.9166666, z: 0}
+      editingNormal: {x: -0.99961954, y: 0, z: -0.027582183}
+    - smooth: 1
+      alignments:
+      - alignment: 1700000018000000
+      - alignment: 350000003b000000
+      values:
+      - {x: -0.000000021855694, y: 1, z: 0.5}
+      - {x: 0.5, y: 0.9166666, z: 0}
+      editingNormal: {x: -0.0000003956248, y: 0, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: 1b0000001c000000
+      - alignment: 3100000037000000
+      values:
+      - {x: 0.0000000059624403, y: 1, z: -0.5}
+      - {x: 0.5, y: 0.9166666, z: 0}
+      editingNormal: {x: -0.0000004945312, y: 0, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 3300000034000000
+      - alignment: 200000001f000000
+      values:
+      - {x: -0.000000021855694, y: 0.5, z: 0.5}
+      - {x: 0.5, y: 0.49999997, z: 0}
+      editingNormal: {x: -0.0000003956248, y: -1.1005546e-14, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: 2f00000030000000
+      - alignment: 2400000023000000
+      values:
+      - {x: 0.0000000059624403, y: 0.5, z: -0.5}
+      - {x: 0.5, y: 0.49999997, z: 0}
+      editingNormal: {x: -0.0000004945312, y: 1.3756941e-14, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 2800000027000000
+      - alignment: 450000002e000000
+      values:
+      - {x: -0.000000021855694, y: 0, z: -0.5}
+      - {x: 0.5, y: 0.08333333, z: 0}
+      editingNormal: {x: -0.0000003956248, y: 1.3756928e-14, z: -1}
+    - smooth: 1
+      alignments:
+      - alignment: 2c0000002b000000
+      - alignment: 4100000032000000
+      values:
+      - {x: 0.0000000059624403, y: 0, z: 0.5}
+      - {x: 0.5, y: 0.08333333, z: 0}
+      editingNormal: {x: -0.0000004945312, y: -1.7196168e-14, z: 1}
+    - smooth: 1
+      alignments:
+      - alignment: 360000003a000000
+      - alignment: 380000003c000000
+      values:
+      - {x: 0, y: 1.1, z: 0}
+      - {x: 0.5, y: 1.2, z: 0}
+      - {x: 0.5, y: 1.2, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments:
+      - alignment: 3e00000042000000
+      - alignment: 4000000044000000
+      values:
+      - {x: 0, y: -0.1, z: 0}
+      - {x: 0.5, y: -0.2, z: 0}
+      - {x: 0.5, y: -0.2, z: 0}
+      editingNormal: {x: 0, y: -1, z: 0}
+    handles:
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.16666666, z: 0}
+      - {x: 1, y: 0.2222222, z: 0}
+      - {x: 1, y: 0.2222222, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.49999994, y: 0.33333397, z: 0}
+      - {x: 1, y: 0.3611116, z: 0}
+      - {x: 1, y: 0.3611116, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.50000006, y: 0.66666603, z: 0}
+      - {x: 1, y: 0.6388883, z: 0}
+      - {x: 1, y: 0.6388883, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0.8333334, z: 0}
+      - {x: 1, y: 0.7777778, z: 0}
+      - {x: 1, y: 0.7777778, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.16666666, z: 0}
+      - {x: 0, y: 0.2222222, z: 0}
+      - {x: 0, y: 0.2222222, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.50000006, y: 0.33333397, z: 0}
+      - {x: 0, y: 0.3611116, z: 0}
+      - {x: 0, y: 0.3611116, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.49999994, y: 0.66666603, z: 0}
+      - {x: 0, y: 0.6388883, z: 0}
+      - {x: 0, y: 0.6388883, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0.8333334, z: 0}
+      - {x: 0, y: 0.7777778, z: 0}
+      - {x: 0, y: 0.7777778, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.50831115, y: 1, z: 0.3012045}
+      - {x: 0.83064955, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.30131903, y: 1, z: 0.5000001}
+      - {x: 0.6693504, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.30131894, y: 1, z: 0.49999988}
+      - {x: 0.3306496, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.50831103, y: 1, z: 0.30120426}
+      - {x: 0.16935039, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.49170163, y: 1, z: -0.3007461}
+      - {x: 0.17137869, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.3013189, y: 1, z: -0.49999985}
+      - {x: 0.32836026, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.30131942, y: 1, z: -0.5000002}
+      - {x: 0.67164, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.49170148, y: 1, z: -0.30074635}
+      - {x: 0.82862127, y: 0.9166666, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.50831115, y: 0.5, z: 0.3012045}
+      - {x: 0.83064955, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.30131903, y: 0.5, z: 0.5000001}
+      - {x: 0.6693504, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.30131894, y: 0.5, z: 0.49999988}
+      - {x: 0.3306496, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.50831103, y: 0.5, z: 0.30120426}
+      - {x: 0.16935039, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.49170163, y: 0.5, z: -0.3007461}
+      - {x: 0.17137869, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.3013189, y: 0.5, z: -0.49999985}
+      - {x: 0.32836026, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.30131942, y: 0.5, z: -0.5000002}
+      - {x: 0.67164, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.49170148, y: 0.5, z: -0.30074635}
+      - {x: 0.82862127, y: 0.49999997, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.50831115, y: 0, z: -0.3012045}
+      - {x: 0.83064955, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.30131903, y: 0, z: -0.5000001}
+      - {x: 0.6693504, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.30131894, y: 0, z: -0.49999988}
+      - {x: 0.3306496, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.50831103, y: 0, z: -0.30120426}
+      - {x: 0.16935039, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.49170163, y: 0, z: 0.3007461}
+      - {x: 0.17137869, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: -0.3013189, y: 0, z: 0.49999985}
+      - {x: 0.32836026, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.30131942, y: 0, z: 0.5000002}
+      - {x: 0.67164, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 0.80473787
+      values:
+      - {x: 0.49170148, y: 0, z: 0.30074635}
+      - {x: 0.82862127, y: 0.08333333, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.00000001606025, y: 0.16666667, z: -0.5}
+      - {x: 0.5, y: 0.22222221, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.0000000013260841, y: 0.33333337, z: -0.5}
+      - {x: 0.5, y: 0.3611111, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.0000000105987965, y: 0.6666666, z: -0.5}
+      - {x: 0.5, y: 0.63888884, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.0000000059624403, y: 0.8333334, z: -0.5}
+      - {x: 0.5, y: 0.7777778, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 1.669962e-10, y: 0.16666667, z: 0.5}
+      - {x: 0.5, y: 0.22222221, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.000000017219339, y: 0.33333337, z: 0.5}
+      - {x: 0.5, y: 0.3611111, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.00000002649205, y: 0.6666666, z: 0.5}
+      - {x: 0.49999997, y: 0.63888884, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.000000021855694, y: 0.8333334, z: 0.5}
+      - {x: 0.5, y: 0.7777778, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.0000000066866477, y: 1.1, z: -0.24037008}
+      - {x: 0.5, y: 1.086492, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.0000000059624403, y: 1.1, z: -0.5}
+      - {x: 0.5, y: 0.9638889, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.24037008, y: 1.1, z: 0}
+      - {x: 0.81381655, y: 1.2, z: 0}
+      - {x: 0.81381655, y: 1.2, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 1.1, z: 0}
+      - {x: 1, y: 1.0472223, z: 0}
+      - {x: 1, y: 1.0472223, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.0000000066866477, y: 1.1, z: 0.24037008}
+      - {x: 0.5, y: 1.086492, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.000000021855694, y: 1.1, z: 0.5}
+      - {x: 0.5, y: 0.9638889, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.24037008, y: 1.1, z: 0}
+      - {x: 0.18618348, y: 1.2, z: 0}
+      - {x: 0.18618348, y: 1.2, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 1.1, z: 0}
+      - {x: 0, y: 1.0472223, z: 0}
+      - {x: 0, y: 1.0472223, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.24037008, y: -0.1, z: 0}
+      - {x: 0.18618351, y: -0.2, z: 0}
+      - {x: 0.18618351, y: -0.2, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: -0.1, z: 0}
+      - {x: 0, y: -0.047222227, z: 0}
+      - {x: 0, y: -0.047222227, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.000000006686647, y: -0.1, z: 0.24037008}
+      - {x: 0.5, y: -0.08649191, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.000000009439707, y: -0.1, z: 0.5}
+      - {x: 0.5, y: 0.036111105, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.24037008, y: -0.1, z: 0}
+      - {x: 0.8138165, y: -0.2, z: 0}
+      - {x: 0.8138165, y: -0.2, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: -0.1, z: 0}
+      - {x: 1, y: -0.047222227, z: 0}
+      - {x: 1, y: -0.047222227, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.000000006686647, y: -0.1, z: -0.24037008}
+      - {x: 0.5, y: -0.08649191, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.00000002533296, y: -0.1, z: -0.5}
+      - {x: 0.5, y: 0.036111105, z: 0}
+  edgeData:
+  - edge: 00000e000f000100
+    hints: 04000400
+    normal: {x: 1, y: 0, z: 0}
+  - edge: 0100100011000200
+    hints: 04000400
+    normal: {x: 0.99961954, y: 0, z: -0.027582558}
+  - edge: 0300120013000400
+    hints: 04000400
+    normal: {x: -1, y: 0, z: 0}
+  - edge: 0400140015000500
+    hints: 04000400
+    normal: {x: -0.99961954, y: 0, z: -0.027582183}
+  - edge: 0200160017000600
+    hints: 04000400
+    normal: {x: 0.7034816, y: 0, z: 0.71071345}
+  - edge: 0600180019000500
+    hints: 04000400
+    normal: {x: -0.7038449, y: 0, z: 0.7103536}
+  - edge: 05001a001b000700
+    hints: 04000400
+    normal: {x: -0.7106575, y: 0, z: -0.7035382}
+  - edge: 07001c001d000200
+    hints: 04000400
+    normal: {x: 0.71129346, y: 0, z: -0.7028952}
+  - edge: 01001e001f000800
+    hints: 04000400
+    normal: {x: 0.7034816, y: -0.00000012219307, z: 0.71071345}
+  - edge: 0800200021000400
+    hints: 04000400
+    normal: {x: -0.7038449, y: 0.0000001222598, z: 0.7103536}
+  - edge: 0400220023000900
+    hints: 04000400
+    normal: {x: -0.7106575, y: 0.00000013044787, z: -0.7035382}
+  - edge: 0900240025000100
+    hints: 04000400
+    normal: {x: 0.71129346, y: -0.00000013055839, z: -0.7028952}
+  - edge: 0000260027000a00
+    hints: 04000400
+    normal: {x: 0.7034816, y: 4.888615e-15, z: -0.71071345}
+  - edge: 0a00280029000300
+    hints: 04000400
+    normal: {x: -0.7038449, y: 4.886144e-15, z: -0.7103536}
+  - edge: 03002a002b000b00
+    hints: 04000400
+    normal: {x: -0.7106575, y: -6.0490833e-15, z: 0.7035382}
+  - edge: 0b002c002d000000
+    hints: 04000400
+    normal: {x: 0.71129346, y: -6.0435483e-15, z: 0.7028952}
+  - edge: 0a002e002f000900
+    hints: 04000400
+    normal: {x: -0.000000445078, y: 3.0181305e-14, z: -1}
+  - edge: 0900300031000700
+    hints: 04000400
+    normal: {x: -0.0000004945312, y: -3.4386154e-15, z: -1}
+  - edge: 0b00320033000800
+    hints: 04000400
+    normal: {x: -0.000000445078, y: -3.0181305e-14, z: 1}
+  - edge: 0800340035000600
+    hints: 04000400
+    normal: {x: -0.0000003956248, y: 2.7544046e-15, z: 1}
+  - edge: 0c00360037000700
+    hints: 04000400
+    normal: {x: -0.000000030492494, y: 0.99142605, z: -0.13066912}
+  - edge: 0c00380039000200
+    hints: 04000400
+    normal: {x: 0.13066891, y: 0.99142444, z: -0.0018024341}
+  - edge: 0c003a003b000600
+    hints: 04000400
+    normal: {x: -0.00000002766546, y: 0.99142605, z: 0.13066912}
+  - edge: 0c003c003d000500
+    hints: 04000400
+    normal: {x: -0.13066891, y: 0.99142444, z: -0.0018024096}
+  - edge: 0d003e003f000300
+    hints: 04000400
+    normal: {x: -0.13047777, y: -0.9914496, z: 0.0017997733}
+  - edge: 0d00400041000b00
+    hints: 04000400
+    normal: {x: -0.00000001321019, y: -0.9914512, z: 0.130478}
+  - edge: 0d00420043000000
+    hints: 04000400
+    normal: {x: 0.13047777, y: -0.9914496, z: 0.0017997978}
+  - edge: 0d00440045000a00
+    hints: 04000400
+    normal: {x: -0.00000004486269, y: -0.9914512, z: -0.130478}
+  geometry:
+  - name: 
+    faces:
+    - sides: 0c000000ffffffff0d00000011000000
+      schema: 200
+    - sides: edffffff100000000100000009000000
+      schema: 200
+    - sides: ecfffffff7ffffff0200000005000000
+      schema: 200
+    - sides: 08000000fefffffff4ffffff12000000
+      schema: 200
+    - sides: efffffff0e000000030000000b000000
+      schema: 200
+    - sides: 0a000000fdffffff0f00000013000000
+      schema: 200
+    - sides: 06000000fcfffffff6ffffff14000000
+      schema: 200
+    - sides: eefffffff5ffffff0400000007000000
+      schema: 200
+    - sides: 16000000f8ffffffebffffff
+      schema: 200
+    - sides: 17000000fbffffffeaffffff
+      schema: 200
+    - sides: faffffffe9ffffff18000000
+      schema: 200
+    - sides: e8ffffff15000000f9ffffff
+      schema: 200
+    - sides: 1a000000f1ffffffe7ffffff
+      schema: 200
+    - sides: 1b000000f0ffffffe6ffffff
+      schema: 200
+    - sides: f3ffffffe5ffffff1c000000
+      schema: 200
+    - sides: e4ffffff19000000f2ffffff
+      schema: 200
+    unwrapGroups:
+    - polygons: 010000000200000006000000090000000a000000050000000c0000000d000000
+      P00: {x: 0, y: 0}
+      P01: {x: 1, y: 0}
+      P11: {x: 1, y: 1}
+      P10: {x: 0, y: 1}
+    - polygons: 000000000300000007000000080000000b000000040000000e0000000f000000
+      P00: {x: 0, y: 0}
+      P01: {x: 1, y: 0}
+      P11: {x: 1, y: 1}
+      P10: {x: 0, y: 1}

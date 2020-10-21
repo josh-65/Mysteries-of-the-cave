@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 480125147, guid: cff40e976d1f4094b9d1b41ffc6dd20d, type: 3}
+  m_Name: CurvedPoly_Assets_Primitives_Unwrapped_Quad1xUnwrapped_model0
+  m_EditorClassIdentifier: 
+  runtimeAssetGUID: ebd5a46eba38456408568f94a7e79daf
+  vertices:
+    mainvertices:
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: -0.5, y: 0, z: -0.5}
+      - {x: 0, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: 0.5, y: 0, z: -0.5}
+      - {x: 1, y: 0, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: -0.5, y: 0, z: 0.5}
+      - {x: 0, y: 1, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    - smooth: 1
+      alignments: []
+      values:
+      - {x: 0.5, y: 0, z: 0.5}
+      - {x: 1, y: 1, z: 0}
+      editingNormal: {x: 0, y: 1, z: 0}
+    handles:
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16666669, y: 0, z: -0.5}
+      - {x: 0.3333333, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16666669, y: 0, z: -0.5}
+      - {x: 0.6666667, y: 0, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.16666669, y: 0, z: 0.5}
+      - {x: 0.3333333, y: 1, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.16666669, y: 0, z: 0.5}
+      - {x: 0.6666667, y: 1, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0, z: -0.16666669}
+      - {x: 0, y: 0.3333333, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: -0.5, y: 0, z: 0.16666669}
+      - {x: 0, y: 0.6666667, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0, z: -0.16666669}
+      - {x: 1, y: 0.3333333, z: 0}
+    - direction: []
+      weight: 1
+      values:
+      - {x: 0.5, y: 0, z: 0.16666669}
+      - {x: 1, y: 0.6666667, z: 0}
+  edgeData:
+  - edge: 0000040005000100
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 0200060007000300
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 0000080009000200
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  - edge: 01000a000b000300
+    hints: 04000400
+    normal: {x: 0, y: 1, z: 0}
+  geometry:
+  - name: 
+    faces:
+    - sides: fcffffffffffffff0300000002000000
+      schema: 200
+    unwrapGroups:
+    - polygons: 00000000
+      P00: {x: 0, y: 0}
+      P01: {x: 1, y: 0}
+      P11: {x: 1, y: 1}
+      P10: {x: 0, y: 1}
