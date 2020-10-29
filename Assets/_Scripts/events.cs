@@ -5,7 +5,7 @@ using System;
 
 public class events : MonoBehaviour
 {
-    public string date;
+    private string date;
 
     void Start() {
         date = DateTime.UtcNow.ToString("dd-MM");

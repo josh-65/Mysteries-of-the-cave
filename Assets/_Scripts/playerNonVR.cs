@@ -13,7 +13,6 @@ using System.Collections.Generic;
 
 public class playerNonVR : MonoBehaviour {
 
-
     #region Variables
 
     #region Input Settings
@@ -29,7 +28,7 @@ public class playerNonVR : MonoBehaviour {
 
     public float verticalRotationRange = 170;
     public float mouseSensitivity = 10;
-    public  float   fOVToMouseSensitivity = 1;
+    public float fOVToMouseSensitivity = 1;
     public float cameraSmoothing = 5f;
     public bool lockAndHideCursor = false;
     public Camera playerCamera;
@@ -52,6 +51,7 @@ public class playerNonVR : MonoBehaviour {
 
     #region Movement Settings
 
+    public Animator ani;
     public bool playerCanMove = true;
     public bool walkByDefault = true;
     public float walkSpeed = 4f;
@@ -310,13 +310,21 @@ public class playerNonVR : MonoBehaviour {
         #region Input Settings - Update
         if(canHoldJump ? (canJump && Input.GetButton("Jump")) : (Input.GetButtonDown("Jump") && canJump) ){
             jumpInput = true;
-        }else if(Input.GetButtonUp("Jump")){jumpInput = false;}
+            ani.SetBool("OnGround", true);
+        }else if(Input.GetButtonUp("Jump")){
+            jumpInput = false;
+            ani.SetBool("OnGround", false);
+        }
         
         
         if(_crouchModifiers.useCrouch){
-            if(!_crouchModifiers.toggleCrouch){ isCrouching = _crouchModifiers.crouchOverride || Input.GetKey(_crouchModifiers.crouchKey);}
-            else if(Input.GetKeyDown(_crouchModifiers.crouchKey)){isCrouching = !isCrouching || _crouchModifiers.crouchOverride;}
+            if(!_crouchModifiers.toggleCrouch){ 
+                isCrouching = _crouchModifiers.crouchOverride || Input.GetKey(_crouchModifiers.crouchKey);
             }
+            else if(Input.GetKeyDown(_crouchModifiers.crouchKey)){
+                isCrouching = !isCrouching || _crouchModifiers.crouchOverride;
+            }
+        }
 
         if(Input.GetButtonDown("Cancel")){ControllerPause();}
         #endregion
