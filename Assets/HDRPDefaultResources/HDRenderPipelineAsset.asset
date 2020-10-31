@@ -153,7 +153,8 @@ MonoBehaviour:
   m_RenderPipelineRayTracingResources: {fileID: 0}
   m_DefaultVolumeProfile: {fileID: 11400000, guid: 77ef4640a9e0f15478beb8f459fc2797,
     type: 2}
-  m_DefaultLookDevProfile: {fileID: 0}
+  m_DefaultLookDevProfile: {fileID: 11400000, guid: 254c4fe87beb7be4fa72e1681edbed02,
+    type: 2}
   m_RenderingPathDefaultCameraFrameSettings:
     bitDatas:
       data1: 70300024700749
@@ -348,5 +349,21 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6014204fae39a0748badcf87cc04ea70, type: 2}
   - {fileID: 11400000, guid: 330a6e287b17b4347afd1bd0964fcce9, type: 2}
   beforeTransparentCustomPostProcesses: []
-  beforePostProcessCustomPostProcesses: []
-  afterPostProcessCustomPostProcesses: []
+  beforePostProcessCustomPostProcesses:
+  - Kino.PostProcessing.Streak, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  afterPostProcessCustomPostProcesses:
+  - Kino.PostProcessing.Utility, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Kino.PostProcessing.Slice, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Kino.PostProcessing.TestCard, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Kino.PostProcessing.Sharpen, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Kino.PostProcessing.Recolor, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Kino.PostProcessing.Overlay, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  - Kino.PostProcessing.Glitch, Kino.Postprocessing, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null

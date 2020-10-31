@@ -8,8 +8,6 @@ public class levelChange : MonoBehaviour
     public Animator transition;
     public float Time = 0f;
     public string transname;
-    private bool start = false;
-    private bool go = false;
 
 	public void OnTriggerEnter(Collider other) {
 		loadNextLevel();
@@ -23,19 +21,6 @@ public class levelChange : MonoBehaviour
             IEnumerator reset() {
                 yield return new WaitForSeconds(78);
                 SceneManager.LoadScene("Menu - Main");
-            }
-        }
-        
-        if(start != true && S.name == "Menu - Main") {
-            //StartCoroutine(bgload());
-            start = true;
-            IEnumerator bgload() {
-                AsyncOperation asyncOperation = SceneManager.LoadSceneAsync("Level - 1 The cave");
-                asyncOperation.allowSceneActivation = false;
-                if(go) {
-                    yield return new WaitForSeconds(2);
-                    asyncOperation.allowSceneActivation = true;
-                }
             }
         }
     }
