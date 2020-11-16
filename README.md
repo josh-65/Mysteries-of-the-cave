@@ -1,4 +1,4 @@
-# Unity Horror
+# Unity game
 
 __Website:__
 
