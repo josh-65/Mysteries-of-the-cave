@@ -15,14 +15,19 @@ public class levelChange : MonoBehaviour
 
     void Update() {
         Scene S = SceneManager.GetActiveScene();
-        if (S.name == "Menu - Credits") {
+        if (S.name == "M - Credits") {
             StartCoroutine(reset());
 
             IEnumerator reset() {
                 yield return new WaitForSeconds(78);
-                SceneManager.LoadScene("Menu - Main");
+                SceneManager.LoadScene("M - Main");
             }
         }
+    }
+
+    public void quit {
+        Application.Quit();
+        Debug.Log("quit");
     }
 
     public void loadNextLevel() {
