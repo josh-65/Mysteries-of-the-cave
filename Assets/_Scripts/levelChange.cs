@@ -25,7 +25,7 @@ public class levelChange : MonoBehaviour
         }
     }
 
-    public void quit {
+    public void quit() {
         Application.Quit();
         Debug.Log("quit");
     }
