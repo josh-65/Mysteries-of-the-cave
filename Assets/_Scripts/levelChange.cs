@@ -5,13 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class levelChange : MonoBehaviour
 {
-    public Animator transition;
-    public float Time = 0f;
-    public string transname;
-
-	public void OnTriggerEnter(Collider other) {
-		loadNextLevel();
-	}
+    public int creditLength;
 
     void Update() {
         Scene S = SceneManager.GetActiveScene();
@@ -19,24 +13,18 @@ public class levelChange : MonoBehaviour
             StartCoroutine(reset());
 
             IEnumerator reset() {
-                yield return new WaitForSeconds(78);
-                SceneManager.LoadScene("M - Main");
+                yield return new WaitForSeconds(creditLength);
+                SceneManager.LoadScene(0);
             }
         }
     }
 
-    public void quit() {
+    public void Quit() {
         Application.Quit();
         Debug.Log("quit");
     }
 
-    public void loadNextLevel() {
-        StartCoroutine(loadLevel(SceneManager.GetActiveScene().buildIndex + 1));
-    }
-
-    IEnumerator loadLevel(int levelIndex) {
-        transition.SetTrigger(transname);
-        yield return new WaitForSeconds(Time);
-        SceneManager.LoadScene(levelIndex);
+    public void loadCredits() {
+        SceneManager.LoadScene(1);
     }
 }
